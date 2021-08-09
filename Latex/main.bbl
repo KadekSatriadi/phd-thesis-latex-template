@@ -1,0 +1,2206 @@
+\begin{thebibliography}{308}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Adhikarla et~al.(2014)Adhikarla, Wozniak, Barsi, Singhal, Kov{\'a}cs,
+  and Balogh]{adhikarla2014freehand}
+Adhikarla, V.~K., Wozniak, P., Barsi, A., Singhal, D., Kov{\'a}cs, P.~T., and
+  Balogh, T.
+\newblock Freehand interaction with large-scale 3d map data.
+\newblock In \emph{3DTV-Conference: The True Vision-Capture, Transmission and
+  Display of 3D Video (3DTV-CON), 2014}, pages 1--4. IEEE, 2014.
+
+\bibitem[Akenine-M{\"o}ller et~al.(2019)Akenine-M{\"o}ller, Haines, and
+  Hoffman]{akenine2019real}
+Akenine-M{\"o}ller, T., Haines, E., and Hoffman, N.
+\newblock \emph{Real-time rendering}.
+\newblock CRC Press, 2019.
+
+\bibitem[{Alghofaili} et~al.(2019){Alghofaili}, {Solah}, {Huang}, {Sawahata},
+  {Pomplun}, and {Yu}]{Alghofaili:2019}
+{Alghofaili}, R., {Solah}, M.~S., {Huang}, H., {Sawahata}, Y., {Pomplun}, M.,
+  and {Yu}, L.
+\newblock Optimizing visual element placement via visual attention analysis.
+\newblock In \emph{2019 IEEE Conference on Virtual Reality and 3D User
+  Interfaces (VR)}, pages 464--473, March 2019.
+
+\bibitem[Andrews and North(2012)]{andrews2012analyst}
+Andrews, C. and North, C.
+\newblock Analyst's workspace: An embodied sensemaking environment for large,
+  high-resolution displays.
+\newblock In \emph{2012 IEEE Conference on Visual Analytics Science and
+  Technology (VAST)}, pages 123--131. IEEE, 2012.
+
+\bibitem[Andrews et~al.(2010)Andrews, Endert, and North]{andrews2010space}
+Andrews, C., Endert, A., and North, C.
+\newblock Space to think: large high-resolution displays for sensemaking.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, pages 55--64. ACM, 2010.
+
+\bibitem[Andrienko et~al.(2010)Andrienko, Andrienko, Demsar, Dransch, Dykes,
+  Fabrikant, Jern, Kraak, Schumann, and Tominski]{andrienko2010space}
+Andrienko, G., Andrienko, N., Demsar, U., Dransch, D., Dykes, J., Fabrikant,
+  S.~I., Jern, M., Kraak, M.-J., Schumann, H., and Tominski, C.
+\newblock Space, time and visual analytics.
+\newblock \emph{International Journal of Geographical Information Science},
+  24\penalty0 (10):\penalty0 1577--1600, 2010.
+
+\bibitem[Andrienko and Andrienko(2006)]{andrienko2006exploratory}
+Andrienko, N. and Andrienko, G.
+\newblock \emph{Exploratory analysis of spatial and temporal data: a systematic
+  approach}.
+\newblock Springer Science \& Business Media, 2006.
+
+\bibitem[Austin et~al.(2020)Austin, Ens, Satriadi, and
+  Jenny]{austin2020elicitation}
+Austin, C.~R., Ens, B., Satriadi, K.~A., and Jenny, B.
+\newblock Elicitation study investigating hand and foot gesture interaction for
+  immersive maps in augmented reality.
+\newblock \emph{Cartography and Geographic Information Science}, 47\penalty0
+  (3):\penalty0 214--228, 2020.
+
+\bibitem[Avery et~al.(2014)Avery, Choi, Vogel, and Lank]{Avery2014}
+Avery, J., Choi, M., Vogel, D., and Lank, E.
+\newblock {Pinch-to-zoom-plus: An Enhanced Pinch-to-zoom That Reduces Clutching
+  and Panning}.
+\newblock In \emph{Proceedings of the 27th Annual ACM Symposium on User
+  Interface Software and Technology}, UIST '14, pages 595--604, New York, NY,
+  USA, 2014. ACM.
+
+\bibitem[Avery et~al.(2018)Avery, Malacria, Nancel, Casiez, and
+  Lank]{Avery2018}
+Avery, J., Malacria, S., Nancel, M., Casiez, G., and Lank, E.
+\newblock {Introducing Transient Gestures to Improve Pan and Zoom on Touch
+  Surfaces}.
+\newblock In \emph{Proceedings of the 2018 CHI Conference on Human Factors in
+  Computing Systems}, CHI '18, pages 25:1--25:8, New York, NY, USA, 2018. ACM.
+\newblock ISBN 978-1-4503-5620-6.
+
+\bibitem[Azuma(1997)]{azuma1997survey}
+Azuma, R.~T.
+\newblock A survey of augmented reality.
+\newblock \emph{Presence: Teleoperators \& Virtual Environments}, 6\penalty0
+  (4):\penalty0 355--385, 1997.
+
+\bibitem[Badam et~al.(2016)Badam, Amini, Elmqvist, and
+  Irani]{badam2016supporting}
+Badam, S.~K., Amini, F., Elmqvist, N., and Irani, P.
+\newblock Supporting visual exploration for multiple users in large display
+  environments.
+\newblock In \emph{Visual Analytics Science and Technology (VAST), 2016 IEEE
+  Conference on}, pages 1--10. IEEE, 2016.
+
+\bibitem[Ball and North(2005)]{ball2005effects}
+Ball, R. and North, C.
+\newblock Effects of tiled high-resolution display on basic visualization and
+  navigation tasks.
+\newblock In \emph{CHI'05 Extended Abstracts on Human Factors in Computing
+  Systems}, pages 1196--1199. ACM, 2005.
+
+\bibitem[Ball et~al.(2005)Ball, Varghese, Sabri, Cox, Fierer, Peterson,
+  Carstensen, and North]{ball2005evaluating}
+Ball, R., Varghese, M., Sabri, A., Cox, E.~D., Fierer, C., Peterson, M.,
+  Carstensen, B., and North, C.
+\newblock Evaluating the benefits of tiled displays for navigating maps.
+\newblock In \emph{IASTED International Conference on Human-Computer
+  Interaction}, pages 66--71, 2005.
+
+\bibitem[Ball et~al.(2007)Ball, North, and Bowman]{ball2007move}
+Ball, R., North, C., and Bowman, D.~A.
+\newblock Move to improve: promoting physical navigation to increase user
+  performance with large displays.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, pages 191--200. ACM, 2007.
+
+\bibitem[Ballendat et~al.(2010)Ballendat, Marquardt, and
+  Greenberg]{ballendat2010proxemic}
+Ballendat, T., Marquardt, N., and Greenberg, S.
+\newblock Proxemic interaction: designing for a proximity and orientation-aware
+  environment.
+\newblock In \emph{ACM International Conference on Interactive Tabletops and
+  Surfaces}, pages 121--130, 2010.
+
+\bibitem[{Batch} et~al.(2020){Batch}, {Cunningham}, {Cordeil}, {Elmqvist},
+  {Dwyer}, {Thomas}, and {Marriott}]{batch19spoon}
+{Batch}, A., {Cunningham}, A., {Cordeil}, M., {Elmqvist}, N., {Dwyer}, T.,
+  {Thomas}, B.~H., and {Marriott}, K.
+\newblock There is no spoon: Evaluating performance, space use, and presence
+  with expert domain users in immersive analytics.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics},
+  26\penalty0 (1):\penalty0 536--546, 2020.
+
+\bibitem[Bederson and Hollan(1994)]{bederson1994padplus}
+Bederson, B.~B. and Hollan, J.~D.
+\newblock Pad++: a zooming graphical interface for exploring alternate
+  interface physics.
+\newblock In \emph{Proceedings of the 7th Annual ACM Symposium on User
+  Interface Software and Technology}, pages 17--26. ACM, 1994.
+
+\bibitem[Billinghurst et~al.(2018)Billinghurst, Cordeil, Bezerianos, and
+  Margolis]{billinghurst2018collaborative}
+Billinghurst, M., Cordeil, M., Bezerianos, A., and Margolis, T.
+\newblock Collaborative immersive analytics.
+\newblock In \emph{Immersive Analytics}, pages 221--257. Springer, 2018.
+
+\bibitem[Bleisch(2011)]{bleisch2011toward}
+Bleisch, S.
+\newblock Toward appropriate representations of quantitative data in virtual
+  environments.
+\newblock \emph{Cartographica: The International Journal for Geographic
+  Information and Geovisualization}, 46\penalty0 (4):\penalty0 252--261, 2011.
+
+\bibitem[Bleisch and Dykes(2015)]{bleisch2015quantitative}
+Bleisch, S. and Dykes, J.
+\newblock Quantitative data graphics in 3d desktop-based virtual
+  environments--an evaluation.
+\newblock \emph{International Journal of Digital Earth}, 8\penalty0
+  (8):\penalty0 623--639, 2015.
+
+\bibitem[Bleisch et~al.(2008)Bleisch, Dykes, and
+  Nebiker]{bleisch2008evaluating}
+Bleisch, S., Dykes, J., and Nebiker, S.
+\newblock Evaluating the effectiveness of representing numeric information
+  through abstract graphics in 3d desktop virtual environments.
+\newblock \emph{The Cartographic Journal}, 45\penalty0 (3):\penalty0 216--226,
+  2008.
+
+\bibitem[Bolt(1980)]{Bolt:1980:LVG:800250.807503}
+Bolt, R.~A.
+\newblock "put-that-there": Voice and gesture at the graphics interface.
+\newblock In \emph{Proceedings of the 7th Annual Conference on Computer
+  Graphics and Interactive Techniques}, SIGGRAPH '80, pages 262--270, New York,
+  NY, USA, 1980. ACM.
+
+\bibitem[Borg(1998)]{borg1998borg}
+Borg, G.
+\newblock \emph{Borg's perceived exertion and pain scales}.
+\newblock Human Kinetics, Champaign, IL, USA, 1998.
+
+\bibitem[Boring et~al.(2009)Boring, Jurmu, and Butz]{Boring2009}
+Boring, S., Jurmu, M., and Butz, A.
+\newblock {Scroll, Tilt or Move It: Using Mobile Phones to Continuously Control
+  Pointers on Large Public Displays}.
+\newblock In \emph{Proceedings of the 21st Annual Conference of the Australian
+  Computer-Human Interaction Special Interest Group}, OZCHI '09, pages
+  161--168, New York, NY, USA, 2009. ACM.
+
+\bibitem[Bortolaso et~al.(2014)Bortolaso, Oskamp, Phillips, Gutwin, and
+  Graham]{bortolaso2014effect}
+Bortolaso, C., Oskamp, M., Phillips, G., Gutwin, C., and Graham, T.
+\newblock The effect of view techniques on collaboration and awareness in
+  tabletop map-based tasks.
+\newblock In \emph{Proceedings of the Ninth ACM International Conference on
+  Interactive Tabletops and Surfaces}, pages 79--88. ACM, 2014.
+
+\bibitem[Boulos et~al.(2011)Boulos, Blanchard, Walker, Montero, Tripathy, and
+  Gutierrez-osuna]{Boulos2011}
+Boulos, M. N.~K., Blanchard, B.~J., Walker, C., Montero, J., Tripathy, A., and
+  Gutierrez-osuna, R.
+\newblock {Web GIS in practice X: a Microsoft Kinect natural user interface for
+  Google Earth navigation}.
+\newblock \emph{International Journal of Health Geographic}, 10\penalty0
+  (1):\penalty0 45:1--14, 2011.
+
+\bibitem[Bourgeois and Guiard(2002)]{Bourgeois2002}
+Bourgeois, F. and Guiard, Y.
+\newblock {Multiscale Pointing: Facilitating Pan-zoom Coordination}.
+\newblock In \emph{CHI '02 Extended Abstracts on Human Factors in Computing
+  Systems}, CHI EA '02, pages 758--759, New York, NY, USA, 2002. ACM.
+
+\bibitem[Bowman and Hodges(1997)]{bowman1997evaluation}
+Bowman, D.~A. and Hodges, L.~F.
+\newblock {An Evaluation of Techniques for Grabbing and Manipulating Remote
+  Objects in Immersive Virtual Environments}.
+\newblock In \emph{Proceedings of the 1997 Symposium on Interactive 3D
+  Graphics}, pages 35--ff, New York, NY, USA, 1997. ACM.
+
+\bibitem[Bowman et~al.(2012)Bowman, McMahan, and Ragan]{bowman2012questioning}
+Bowman, D.~A., McMahan, R.~P., and Ragan, E.~D.
+\newblock Questioning naturalism in 3d user interfaces.
+\newblock \emph{Communications of the ACM}, 55\penalty0 (9):\penalty0 78--88,
+  2012.
+
+\bibitem[Boy et~al.(2015)Boy, Detienne, and Fekete]{boy2015storytelling}
+Boy, J., Detienne, F., and Fekete, J.-D.
+\newblock Storytelling in information visualizations: Does it engage users to
+  explore data?
+\newblock In \emph{Proceedings of the 33rd Annual ACM Conference on Human
+  Factors in Computing Systems}, pages 1449--1458, 2015.
+
+\bibitem[Brodkorb et~al.(2016)Brodkorb, Kuijper, Andrienko, Andrienko, and
+  Von~Landesberger]{brodkorb2016overview}
+Brodkorb, F., Kuijper, A., Andrienko, G., Andrienko, N., and Von~Landesberger,
+  T.
+\newblock Overview with details for exploring geo-located graphs on maps.
+\newblock \emph{Information Visualization}, 15\penalty0 (3):\penalty0 214--237,
+  2016.
+
+\bibitem[Bryson(1996)]{bryson1996virtual}
+Bryson, S.
+\newblock Virtual reality in scientific visualization.
+\newblock \emph{Communications of the ACM}, 39\penalty0 (5):\penalty0 62--71,
+  1996.
+
+\bibitem[B{\"u}schel et~al.(2018)B{\"u}schel, Chen, Dachselt, Drucker, Dwyer,
+  G{\"o}rg, Isenberg, Kerren, North, and Stuerzlinger]{buschel2018interaction}
+B{\"u}schel, W., Chen, J., Dachselt, R., Drucker, S., Dwyer, T., G{\"o}rg, C.,
+  Isenberg, T., Kerren, A., North, C., and Stuerzlinger, W.
+\newblock Interaction for immersive analytics.
+\newblock In \emph{Immersive Analytics}, pages 95--138. Springer, 2018.
+
+\bibitem[Butscher et~al.(2014)Butscher, Hornb{\ae}k, and
+  Reiterer]{butscher2014spacefold}
+Butscher, S., Hornb{\ae}k, K., and Reiterer, H.
+\newblock Spacefold and physiclenses: simultaneous multifocus navigation on
+  touch surfaces.
+\newblock In \emph{Proceedings of the 2014 International Working Conference on
+  Advanced Visual Interfaces}, pages 209--216. ACM, 2014.
+
+\bibitem[Butscher et~al.(2018)Butscher, Hubenschmid, M{\"u}ller, Fuchs, and
+  Reiterer]{butscher2018clusters}
+Butscher, S., Hubenschmid, S., M{\"u}ller, J., Fuchs, J., and Reiterer, H.
+\newblock Clusters, trends, and outliers: How immersive technologies can
+  facilitate the collaborative analysis of multidimensional data.
+\newblock In \emph{Proceedings of the 2018 CHI Conference on Human Factors in
+  Computing Systems}, page~90. ACM, 2018.
+
+\bibitem[Buxton(1986)]{Buxton1986}
+Buxton, B.
+\newblock {Chunking and phrasing and the design of human-computer dialogues}.
+\newblock In \emph{Proceedings of the IFIP World Computer Congress}, pages
+  475--480, 1986.
+
+\bibitem[Buxton and Myers(1986)]{Buxton1986a}
+Buxton, W. and Myers, B.
+\newblock {A Study in Two-Handed Input}.
+\newblock \emph{ACM SIGCHI Bulletin}, 17\penalty0 (4):\penalty0 321--326, 1986.
+\newblock ISSN 07366906.
+
+\bibitem[Cabello et~al.(2010)Cabello, Haverkort, Van~Kreveld, and
+  Speckmann]{cabello2010algorithmic}
+Cabello, S., Haverkort, H., Van~Kreveld, M., and Speckmann, B.
+\newblock Algorithmic aspects of proportional symbol maps.
+\newblock \emph{Algorithmica}, 58\penalty0 (3):\penalty0 543--565, 2010.
+
+\bibitem[Card et~al.(1991)Card, Robertson, and Mackinlay]{card1991information}
+Card, S.~K., Robertson, G.~G., and Mackinlay, J.~D.
+\newblock The information visualizer, an information workspace.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, pages 181--186, 1991.
+
+\bibitem[Casiez et~al.(2007)Casiez, Vogel, Pan, and Chaillou]{Casiez2007}
+Casiez, G., Vogel, D., Pan, Q., and Chaillou, C.
+\newblock {RubberEdge: Reducing Clutching by Combining Position and Rate
+  Control with Elastic Feedback}.
+\newblock In \emph{Proceedings of the 20th Annual ACM Symposium on User
+  Interface Software and Technology}, UIST '07, pages 129--138, New York, NY,
+  USA, 2007. ACM.
+
+\bibitem[Cauchard et~al.(2012)Cauchard, L\"{o}chtefeld, Fraser, Kr\"{u}ger, and
+  Subramanian]{Cauchard:2012:MVW:2371574.2371601}
+Cauchard, J., L\"{o}chtefeld, M., Fraser, M., Kr\"{u}ger, A., and Subramanian,
+  S.
+\newblock M+pspaces: Virtual workspaces in the spatially-aware mobile
+  environment.
+\newblock In \emph{Proceedings of the 14th International Conference on
+  Human-computer Interaction with Mobile Devices and Services}, MobileHCI '12,
+  pages 171--180, New York, NY, USA, 2012. ACM.
+\newblock ISBN 978-1-4503-1105-2.
+
+\bibitem[Chaconas and H{\"o}llerer(2018)]{8446320}
+Chaconas, N. and H{\"o}llerer, T.
+\newblock An evaluation of bimanual gestures on the microsoft hololens.
+\newblock In \emph{2018 IEEE Conference on Virtual Reality and 3D User
+  Interfaces (VR)}, pages 1--8, March 2018.
+
+\bibitem[Chaffin et~al.(1999)Chaffin, Andersson, Martin,
+  et~al.]{chaffin1999occupational}
+Chaffin, D.~B., Andersson, G., Martin, B.~J., et~al.
+\newblock \emph{Occupational biomechanics}.
+\newblock Wiley New York, 1999.
+
+\bibitem[Chan et~al.(2010)Chan, Kao, Chen, Lee, Hsu, and
+  Hung]{chan2010touching}
+Chan, L.-W., Kao, H.-S., Chen, M.~Y., Lee, M.-S., Hsu, J., and Hung, Y.-P.
+\newblock Touching the void: direct-touch interaction for intangible displays.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '10, pages 2625--2634, New York, NY, USA, 2010. ACM.
+
+\bibitem[Chandler and Shapiro(2016)]{chandler2016conducting}
+Chandler, J. and Shapiro, D.
+\newblock Conducting clinical research using crowdsourced convenience samples.
+\newblock \emph{Annual Review of Clinical Psychology}, 12:\penalty0 53--81,
+  2016.
+
+\bibitem[Chandler et~al.(2015)Chandler, Cordeil, Czauderna, Dwyer, Glowacki,
+  Goncu, Klapperstueck, Klein, Marriott, Schreiber,
+  et~al.]{chandler2015immersive}
+Chandler, T., Cordeil, M., Czauderna, T., Dwyer, T., Glowacki, J., Goncu, C.,
+  Klapperstueck, M., Klein, K., Marriott, K., Schreiber, F., et~al.
+\newblock Immersive analytics.
+\newblock In \emph{2015 Big Data Visual Analytics (BDVA)}, pages 1--8. IEEE,
+  2015.
+
+\bibitem[Chen and Lin(2018)]{chen2018virtual}
+Chen, M. and Lin, H.
+\newblock Virtual geographic environments ({VGE}s): originating from or beyond
+  virtual reality ({VR})?
+\newblock \emph{International Journal of Digital Earth}, 11\penalty0
+  (4):\penalty0 329--333, 2018.
+
+\bibitem[Clarke et~al.(2020)Clarke, Voce, Gutiérrez, and
+  Hulley-Jones]{sean__how_2020}
+Clarke, S., Voce, A., Gutiérrez, P., and Hulley-Jones, F.
+\newblock How coronavirus spread across the globe -- visualised, 2020.
+\newblock URL
+  \url{https://www.theguardian.com/world/ng-interactive/2020/apr/09/how-coronavirus-spread-across-the-globe-visualised}.
+\newblock [Accessed on: May 10, 2020].
+
+\bibitem[Cleveland and McGill(1984)]{cleveland1984graphical}
+Cleveland, W.~S. and McGill, R.
+\newblock Graphical perception: Theory, experimentation, and application to the
+  development of graphical methods.
+\newblock \emph{Journal of the American Statistical Association}, 79\penalty0
+  (387):\penalty0 531--554, 1984.
+
+\bibitem[Cleveland and McGill(1986)]{cleveland1986experiment}
+Cleveland, W.~S. and McGill, R.
+\newblock An experiment in graphical perception.
+\newblock \emph{International Journal of Man-Machine Studies}, 25\penalty0
+  (5):\penalty0 491--500, 1986.
+
+\bibitem[Cockburn and McKenzie(2001)]{cockburn20013d}
+Cockburn, A. and McKenzie, B.
+\newblock 3d or not 3d? evaluating the effect of the third dimension in a
+  document management system.
+\newblock In \emph{Proceedings of the SIGCHI conference on Human factors in
+  computing systems}, pages 434--441, 2001.
+
+\bibitem[Cockburn and McKenzie(2002)]{cockburn2002evaluating}
+Cockburn, A. and McKenzie, B.
+\newblock Evaluating the effectiveness of spatial memory in 2d and 3d physical
+  and virtual environments.
+\newblock In \emph{Proceedings of the SIGCHI conference on Human factors in
+  computing systems}, pages 203--210, 2002.
+
+\bibitem[Cockburn et~al.(2009)Cockburn, Karlson, and
+  Bederson]{cockburn2009review}
+Cockburn, A., Karlson, A., and Bederson, B.~B.
+\newblock A review of overview+ detail, zooming, and focus+ context interfaces.
+\newblock \emph{ACM Computing Surveys (CSUR)}, 41\penalty0 (1), 2009.
+
+\bibitem[Codd-Downey and
+  Stuerzlinger(2014)]{Codd-Downey:2014:LFG:2659766.2661218}
+Codd-Downey, R. and Stuerzlinger, W.
+\newblock {LeapLook: A Free-hand Gestural Travel Technique Using the Leap
+  Motion Finger Tracker}.
+\newblock In \emph{Proceedings of the 2Nd ACM Symposium on Spatial User
+  Interaction}, SUI '14, pages 153--153, New York, NY, USA, 2014. ACM.
+\newblock ISBN 978-1-4503-2820-3.
+
+\bibitem[Collins and Carpendale(2007)]{collins2007vislink}
+Collins, C. and Carpendale, S.
+\newblock Vislink: Revealing relationships amongst visualizations.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics},
+  13\penalty0 (6):\penalty0 1192--1199, 2007.
+
+\bibitem[{\c{C}}{\"o}ltekin et~al.(2017){\c{C}}{\"o}ltekin, Bleisch, Andrienko,
+  and Dykes]{ccoltekin2017persistent}
+{\c{C}}{\"o}ltekin, A., Bleisch, S., Andrienko, G., and Dykes, J.
+\newblock Persistent challenges in geovisualization--a community perspective.
+\newblock \emph{International Journal of Cartography}, 3\penalty0
+  (sup1):\penalty0 115--139, 2017.
+
+\bibitem[C{\"o}ltekin et~al.(2018)C{\"o}ltekin, Janetzko, and
+  Fabrikant]{coltekin2018geovisualization}
+C{\"o}ltekin, A., Janetzko, H., and Fabrikant, S.~I.
+\newblock Geovisualization.
+\newblock \emph{Geographic Information Science}, 2018\penalty0 (Q2):\penalty0
+  online, 2018.
+\newblock \doi{https://doi.org/10.22224/gistbok/2018.2.6}.
+
+\bibitem[{\c{C}}{\"o}ltekin et~al.(2020){\c{C}}{\"o}ltekin, Lochhead, Madden,
+  Christophe, Devaux, Pettit, Lock, Shukla, Herman, Stacho{\v{n}},
+  et~al.]{ccoltekin2020extended}
+{\c{C}}{\"o}ltekin, A., Lochhead, I., Madden, M., Christophe, S., Devaux, A.,
+  Pettit, C., Lock, O., Shukla, S., Herman, L., Stacho{\v{n}}, Z., et~al.
+\newblock Extended reality in spatial sciences: a review of research challenges
+  and future directions.
+\newblock \emph{ISPRS International Journal of Geo-Information}, 9\penalty0
+  (7):\penalty0 439, 2020.
+
+\bibitem[Cordeil et~al.(2016)Cordeil, Dwyer, Klein, Laha, Marriott, and
+  Thomas]{cordeil2016immersive}
+Cordeil, M., Dwyer, T., Klein, K., Laha, B., Marriott, K., and Thomas, B.~H.
+\newblock Immersive collaborative analysis of network connectivity: Cave-style
+  or head-mounted display?
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics},
+  23\penalty0 (1):\penalty0 441--450, 2016.
+
+\bibitem[Cordeil et~al.(2017)Cordeil, Cunningham, Dwyer, Thomas, and
+  Marriott]{cordeil2017imaxes}
+Cordeil, M., Cunningham, A., Dwyer, T., Thomas, B.~H., and Marriott, K.
+\newblock Imaxes: Immersive axes as embodied affordances for interactive
+  multivariate data visualisation.
+\newblock In \emph{Proceedings of the 30th Annual ACM Symposium on User
+  Interface Software and Technology}, pages 71--83. ACM, 2017.
+
+\bibitem[Cordeil et~al.(2019)Cordeil, Cunningham, Bach, Hurter, Thomas,
+  Marriott, and Dwyer]{cordeil2019iatk}
+Cordeil, M., Cunningham, A., Bach, B., Hurter, C., Thomas, B.~H., Marriott, K.,
+  and Dwyer, T.
+\newblock Iatk: An immersive analytics toolkit.
+\newblock In \emph{2019 IEEE Conference on Virtual Reality and 3D User
+  Interfaces (VR)}, pages 200--209. IEEE, 2019.
+
+\bibitem[Cotter et~al.(2017)Cotter, Silvia, Bertamini, Palumbo, and
+  Vartanian]{cotter2017curve}
+Cotter, K.~N., Silvia, P.~J., Bertamini, M., Palumbo, L., and Vartanian, O.
+\newblock Curve appeal: exploring individual differences in preference for
+  curved versus angular objects.
+\newblock \emph{i-Perception}, 8\penalty0 (2):\penalty0 2041669517693023, 2017.
+
+\bibitem[Cunningham et~al.(2018)Cunningham, Walsh, and
+  Thomas]{cunningham2018immersive}
+Cunningham, A., Walsh, J., and Thomas, B.
+\newblock Immersive visualisation of geo-temporal narratives in law
+  enforcement.
+\newblock In \emph{2018 International Symposium on Big Data Visual and
+  Immersive Analytics (BDVA)}, pages 1--8. IEEE, 2018.
+
+\bibitem[Czerwinski et~al.(2002)Czerwinski, Tan, and
+  Robertson]{czerwinski2002women}
+Czerwinski, M., Tan, D.~S., and Robertson, G.~G.
+\newblock Women take a wider view.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, pages 195--202. ACM, 2002.
+
+\bibitem[Danyluk et~al.(2019)Danyluk, Jenny, and Willett]{danyluk2019look}
+Danyluk, K., Jenny, B., and Willett, W.
+\newblock Look-from camera control for 3d terrain maps.
+\newblock In \emph{Proceedings of the 2019 CHI Conference on Human Factors in
+  Computing Systems}, pages 1--12, 2019.
+
+\bibitem[Debiasi et~al.(2015)Debiasi, Simoes, and
+  De~Amicis]{debiasi20153darclens}
+Debiasi, A., Simoes, B., and De~Amicis, R.
+\newblock 3darclens: Interactive network analysis on geographic surfaces.
+\newblock In \emph{IVAPP}, pages 291--299, 2015.
+
+\bibitem[Dent et~al.(2008)Dent, Torguson, and Hodler]{dent2008thematic}
+Dent, B., Torguson, J., and Hodler, T.
+\newblock \emph{Thematic map design}.
+\newblock McGraw-Hill New York, New York, NY, 2008.
+
+\bibitem[DiBiase(1990)]{dibiase1990visualization}
+DiBiase, D.
+\newblock Visualization in the earth sciences.
+\newblock \emph{Earth and Mineral Sciences}, 59\penalty0 (2):\penalty0 13--18,
+  1990.
+
+\bibitem[Dolezal et~al.(2020)Dolezal, Chmelik, and
+  Liarokapis]{dolezal2020immersive}
+Dolezal, M., Chmelik, J., and Liarokapis, F.
+\newblock An immersive virtual environment for collaborative geovisualization.
+\newblock \emph{arXiv preprint arXiv:2010.06279}, 2020.
+
+\bibitem[Dominjon et~al.(2005)Dominjon, Lecuyer, Burkhardt, Andrade-Barroso,
+  and Richir]{dominjon2005bubble}
+Dominjon, L., Lecuyer, A., Burkhardt, J.-M., Andrade-Barroso, G., and Richir,
+  S.
+\newblock The "bubble" technique: interacting with large virtual environments
+  using haptic devices with limited workspace.
+\newblock In \emph{First Joint Eurohaptics Conference and Symposium on Haptic
+  Interfaces for Virtual Environment and Teleoperator Systems. World Haptics
+  Conference}, pages 639--640. IEEE, 2005.
+
+\bibitem[Dourish(2004)]{dourish2004action}
+Dourish, P.
+\newblock \emph{Where the action is: the foundations of embodied interaction}.
+\newblock MIT press, 2004.
+
+\bibitem[Duan et~al.(2015)Duan, Gong, Li, Shen, and Li]{duan2015improved}
+Duan, Q., Gong, J., Li, W., Shen, S., and Li, R.
+\newblock Improved cubemap model for 3d navigation in geo-virtual reality.
+\newblock \emph{International Journal of Digital Earth}, 8\penalty0
+  (11):\penalty0 877--900, 2015.
+
+\bibitem[D{\"u}bel et~al.(2014)D{\"u}bel, R{\"o}hlig, Schumann, and
+  Trapp]{dubel20142d}
+D{\"u}bel, S., R{\"o}hlig, M., Schumann, H., and Trapp, M.
+\newblock 2d and 3d presentation of spatial data: A systematic review.
+\newblock In \emph{2014 IEEE VIS International Workshop on 3DVis (3DVis)},
+  pages 11--18. IEEE, 2014.
+
+\bibitem[Dwyer et~al.(2018)Dwyer, Marriott, Isenberg, Klein, Riche, Schreiber,
+  Stuerzlinger, and Thomas]{dwyer2018immersive}
+Dwyer, T., Marriott, K., Isenberg, T., Klein, K., Riche, N., Schreiber, F.,
+  Stuerzlinger, W., and Thomas, B.~H.
+\newblock Immersive analytics: An introduction.
+\newblock In \emph{Immersive Analytics}, pages 1--23. Springer, 2018.
+
+\bibitem[Dykes(1998)]{dykes1998cartographic}
+Dykes, J.
+\newblock Cartographic visualization.
+\newblock \emph{Journal of the Royal Statistical Society: Series D (The
+  Statistician)}, 47\penalty0 (3):\penalty0 485--497, 1998.
+
+\bibitem[Ellis and Dix(2007)]{ellis2007taxonomy}
+Ellis, G. and Dix, A.
+\newblock A taxonomy of clutter reduction for information visualisation.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics},
+  13\penalty0 (6):\penalty0 1216--1223, 2007.
+
+\bibitem[Elmqvist et~al.(2008)Elmqvist, Henry, Riche, and
+  Fekete]{elmqvist2008melange}
+Elmqvist, N., Henry, N., Riche, Y., and Fekete, J.-D.
+\newblock Melange: space folding for multi-focus interaction.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, pages 1333--1342. ACM, 2008.
+
+\bibitem[Elmqvist et~al.(2011)Elmqvist, Moere, Jetter, Cernea, Reiterer, and
+  Jankun-Kelly]{elmqvist2011fluid}
+Elmqvist, N., Moere, A.~V., Jetter, H.-C., Cernea, D., Reiterer, H., and
+  Jankun-Kelly, T.
+\newblock Fluid interaction for information visualization.
+\newblock \emph{Information Visualization}, 10\penalty0 (4):\penalty0 327--340,
+  2011.
+
+\bibitem[ElSayed et~al.(2016)ElSayed, Thomas, Marriott, Piantadosi, and
+  Smith]{elsayed2016situated}
+ElSayed, N.~A., Thomas, B.~H., Marriott, K., Piantadosi, J., and Smith, R.~T.
+\newblock Situated analytics: Demonstrating immersive analytical tools with
+  augmented reality.
+\newblock \emph{Journal of Visual Languages \& Computing}, 36:\penalty0 13--23,
+  2016.
+
+\bibitem[Englmeier et~al.(2019)Englmeier, Sch{\"o}newald, Butz, and
+  H{\"o}llerer]{englmeier2019feel}
+Englmeier, D., Sch{\"o}newald, I., Butz, A., and H{\"o}llerer, T.
+\newblock Feel the globe: Enhancing the perception of immersive spherical
+  visualizations with tangible proxies.
+\newblock In \emph{2019 IEEE Conference on Virtual Reality and 3D User
+  Interfaces (VR)}, pages 1693--1698. IEEE, 2019.
+
+\bibitem[Ens and Irani(2016)]{ens2016spatial}
+Ens, B. and Irani, P.
+\newblock Spatial analytic interfaces: Spatial user interfaces for in situ
+  visual analytics.
+\newblock \emph{IEEE Computer Graphics and Applications}, 37\penalty0
+  (2):\penalty0 66--79, 2016.
+
+\bibitem[Ens et~al.(2014{\natexlab{a}})Ens, Hincapi{\'e}-Ramos, and
+  Irani]{ens2014ethereal}
+Ens, B., Hincapi{\'e}-Ramos, J.~D., and Irani, P.
+\newblock Ethereal planes: a design framework for 2d information space in 3d
+  mixed reality environments.
+\newblock In \emph{Proceedings of the 2nd ACM Symposium on Spatial User
+  Interaction}, pages 2--12. ACM, 2014{\natexlab{a}}.
+
+\bibitem[Ens et~al.(2015)Ens, Ofek, Bruce, and Irani]{Ens:2015}
+Ens, B., Ofek, E., Bruce, N., and Irani, P.
+\newblock Spatial constancy of surface-embedded layouts across multiple
+  environments.
+\newblock In \emph{Proceedings of the 3rd ACM Symposium on Spatial User
+  Interaction}, SUI '15, pages 65--68, New York, NY, USA, 2015. ACM.
+\newblock ISBN 978-1-4503-3703-8.
+
+\bibitem[Ens et~al.(2020)Ens, Goodwin, Prouzeau, Anderson, Wang, Gratzl,
+  Lucarelli, Moyle, Smiley, and Dwyer]{ens2020uplift}
+Ens, B., Goodwin, S., Prouzeau, A., Anderson, F., Wang, F.~Y., Gratzl, S.,
+  Lucarelli, Z., Moyle, B., Smiley, J., and Dwyer, T.
+\newblock Uplift: A tangible and immersive tabletop system for casual
+  collaborative visual analytics.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics},
+  2020.
+
+\bibitem[Ens et~al.(2021)Ens, Bach, Cordeil, Engelke, Serrano, Willett,
+  Prouzeau, Anthes, B{\"u}schel, Dunne, et~al.]{ens2021grand}
+Ens, B., Bach, B., Cordeil, M., Engelke, U., Serrano, M., Willett, W.,
+  Prouzeau, A., Anthes, C., B{\"u}schel, W., Dunne, C., et~al.
+\newblock Grand challenges in immersive analytics.
+\newblock In \emph{Proceedings of the 2021 CHI Conference on Human Factors in
+  Computing Systems}, pages 1--17, 2021.
+
+\bibitem[Ens et~al.(2014{\natexlab{b}})Ens, Finnegan, and Irani]{Ens2014}
+Ens, B.~M., Finnegan, R., and Irani, P.~P.
+\newblock {The personal cockpit}.
+\newblock In \emph{Proceedings of the 32nd annual ACM conference on Human
+  factors in computing systems - CHI '14}, pages 3171--3180, New York, New
+  York, USA, 2014{\natexlab{b}}. ACM Press.
+\newblock ISBN 9781450324731.
+
+\bibitem[Esri(2014)]{arcgis}
+Esri.
+\newblock John snow's investigation of the 1854 soho cholera outbreak, 2014.
+\newblock URL
+  \url{https://www.arcgis.com/apps/PublicInformation/index.html?appid=d7deb67f810d46dfacb80ff80ac224e9}.
+\newblock [Accessed on: Jan 05, 2021].
+
+\bibitem[Fairbairn et~al.(2001)Fairbairn, Andrienko, Andrienko, Buziek, and
+  Dykes]{fairbairn2001representation}
+Fairbairn, D., Andrienko, G., Andrienko, N., Buziek, G., and Dykes, J.
+\newblock Representation and its relationship with cartographic visualization.
+\newblock \emph{Cartography and Geographic Information Science}, 28\penalty0
+  (1):\penalty0 13--28, 2001.
+
+\bibitem[Faust(1995)]{faust1995virtual}
+Faust, N.~L.
+\newblock The virtual reality of gis.
+\newblock \emph{Environment and Planning B: Planning and Design}, 22\penalty0
+  (3):\penalty0 257--268, 1995.
+
+\bibitem[Febretti et~al.(2013)Febretti, Nishimoto, Thigpen, Talandis, Long,
+  Pirtle, Peterka, Verlo, Brown, Plepys, et~al.]{febretti2013cave2}
+Febretti, A., Nishimoto, A., Thigpen, T., Talandis, J., Long, L., Pirtle, J.,
+  Peterka, T., Verlo, A., Brown, M., Plepys, D., et~al.
+\newblock Cave2: a hybrid reality environment for immersive simulation and
+  information analysis.
+\newblock In \emph{The Engineering Reality of Virtual Reality 2013}, volume
+  8649, page 864903. International Society for Optics and Photonics, 2013.
+
+\bibitem[Fender et~al.(2017)Fender, Lindlbauer, Herholz, Alexa, and
+  M\"{u}ller]{Fender:2017}
+Fender, A., Lindlbauer, D., Herholz, P., Alexa, M., and M\"{u}ller, J.
+\newblock Heatspace: Automatic placement of displays by empirical analysis of
+  user behavior.
+\newblock In \emph{Proceedings of the 30th Annual ACM Symposium on User
+  Interface Software and Technology}, UIST '17, pages 611--621, New York, NY,
+  USA, 2017. ACM.
+\newblock ISBN 978-1-4503-4981-9.
+
+\bibitem[Flannery(1971)]{flannery1971relative}
+Flannery, J.~J.
+\newblock The relative effectiveness of some common graduated point symbols in
+  the presentation of quantitative data.
+\newblock \emph{Cartographica: The International Journal for Geographic
+  Information and Geovisualization}, 8\penalty0 (2):\penalty0 96--109, 1971.
+
+\bibitem[Fonnet and Prié(2021)]{fonnet2019survey}
+Fonnet, A. and Prié, Y.
+\newblock Survey of immersive analytics.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics},
+  27\penalty0 (3):\penalty0 2101--2122, 2021.
+
+\bibitem[Friendly and Denis()]{friendly2001milestones}
+Friendly, M. and Denis, D.~J.
+\newblock Milestones in the history of thematic cartography, statistical
+  graphics, and data visualization.
+\newblock URL \url{http://www. datavis. ca/milestones}.
+\newblock [Accessed on: Jan 05, 2021].
+
+\bibitem[Furnas(1986)]{furnas1986generalized}
+Furnas, G.~W.
+\newblock Generalized fisheye views.
+\newblock \emph{SIGCHI Bulletin}, 17\penalty0 (4):\penalty0 16--23, 1986.
+
+\bibitem[Furnas and Bederson(1995)]{furnas1995space}
+Furnas, G.~W. and Bederson, B.~B.
+\newblock Space-scale diagrams: Understanding multiscale interfaces.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '95, page 234–241, 1995.
+\newblock ISBN 0201847051.
+
+\bibitem[Gardony et~al.(2021)Gardony, Martis, Taylor, and
+  Bruny{\'e}]{gardony2021interaction}
+Gardony, A.~L., Martis, S.~B., Taylor, H.~A., and Bruny{\'e}, T.~T.
+\newblock Interaction strategies for effective augmented reality
+  geo-visualization: Insights from spatial cognition.
+\newblock \emph{Human--Computer Interaction}, 36\penalty0 (2):\penalty0
+  107--149, 2021.
+
+\bibitem[Geoanalytics.net()]{a2007_ica}
+Geoanalytics.net.
+\newblock Ica commission on geovisualization.
+\newblock URL \url{http://geoanalytics.net/ica/}.
+\newblock [Accessed on: Jan 10, 2021].
+
+\bibitem[Ghani et~al.(2011)Ghani, Riche, and Elmqvist]{ghani2011dynamic}
+Ghani, S., Riche, N.~H., and Elmqvist, N.
+\newblock Dynamic insets for context-aware graph navigation.
+\newblock In \emph{Computer Graphics Forum}, volume~30, pages 861--870. Wiley
+  Online Library, 2011.
+
+\bibitem[Glander and D{\"o}llner(2009)]{glander2009abstract}
+Glander, T. and D{\"o}llner, J.
+\newblock Abstract representations for interactive visualization of virtual 3d
+  city models.
+\newblock \emph{Computers, Environment and Urban Systems}, 33\penalty0
+  (5):\penalty0 375--387, 2009.
+
+\bibitem[Goodchild(2010)]{goodchild2010twenty}
+Goodchild, M.
+\newblock Twenty years of progress: Giscience in 2010.
+\newblock \emph{Journal of Spatial Information Science}, \penalty0
+  (1):\penalty0 3--20, 2010.
+
+\bibitem[Goodchild(1992)]{goodchild1992}
+Goodchild, M.~F.
+\newblock Geographical information science.
+\newblock \emph{International Journal of Geographical Information Systems},
+  6\penalty0 (1):\penalty0 31--45, 1992.
+
+\bibitem[Goodwin et~al.(2015)Goodwin, Dykes, Slingsby, and
+  Turkay]{goodwin2015visualizing}
+Goodwin, S., Dykes, J., Slingsby, A., and Turkay, C.
+\newblock Visualizing multiple variables across scale and geography.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics},
+  22\penalty0 (1):\penalty0 599--608, 2015.
+
+\bibitem[Gore(1992)]{gore1992earth}
+Gore, A.
+\newblock \emph{Earth in the {B}alance: {E}cology and the {H}uman {S}pirit}.
+\newblock Houghton Mifflin, 1992.
+
+\bibitem[Gore(1998)]{al_gore_digital_earth}
+Gore, A.
+\newblock The digital earth.
+\newblock \emph{Australian Surveyor}, 43\penalty0 (2):\penalty0 89--91, 1998.
+
+\bibitem[Guiard(1987)]{Guiard1987}
+Guiard, Y.
+\newblock {Asymmetric division of labor in human skilled bimanual action: The
+  kinematic chain as a model}.
+\newblock \emph{Journal of Motor Behavior}, 19\penalty0 (4):\penalty0 486--517,
+  1987.
+
+\bibitem[Guiard and Beaudouin-Lafon(2004)]{Guiard2004}
+Guiard, Y. and Beaudouin-Lafon, M.
+\newblock {Target acquisition in multiscale electronic worlds}.
+\newblock \emph{International Journal of Human Computer Studies}, 61\penalty0
+  (6):\penalty0 875--905, 2004.
+\newblock ISSN 10715819.
+
+\bibitem[Haeberling et~al.(2008)Haeberling, B{\"a}r, and
+  Hurni]{haeberling2008proposed}
+Haeberling, C., B{\"a}r, H., and Hurni, L.
+\newblock Proposed cartographic design principles for 3d maps: a contribution
+  to an extended cartographic theory.
+\newblock \emph{Cartographica: The International Journal for Geographic
+  Information and Geovisualization}, 43\penalty0 (3):\penalty0 175--188, 2008.
+
+\bibitem[Hall(1966)]{hall1966hidden}
+Hall, E.~T.
+\newblock \emph{The hidden dimension}, volume 609.
+\newblock Garden City, NY: Doubleday, 1966.
+
+\bibitem[Hansen et~al.(2008)Hansen, Skovsgaard, Hansen, and
+  M{\o}llenbach]{hansen2008noise}
+Hansen, D.~W., Skovsgaard, H.~H., Hansen, J.~P., and M{\o}llenbach, E.
+\newblock Noise tolerant selection by gaze-controlled pan and zoom in 3d.
+\newblock In \emph{Proceedings of the 2008 Symposium on Eye Tracking Research
+  \& Applications}, pages 205--212, New York, NY, USA, 2008. ACM.
+
+\bibitem[Hartson and Pyla(2012)]{HARTSON2012503}
+Hartson, R. and Pyla, P.~S.
+\newblock Chapter 14 - rigorous empirical evaluation: Preparation.
+\newblock In Hartson, R. and Pyla, P.~S., editors, \emph{The UX Book}, pages
+  503--536. Morgan Kaufmann, Boston, 2012.
+\newblock ISBN 978-0-12-385241-0.
+
+\bibitem[Hasan et~al.(2015)Hasan, Ahlstr\"{o}m, and Irani]{Hasan2015}
+Hasan, K., Ahlstr\"{o}m, D., and Irani, P.~P.
+\newblock {Comparing Direct Off-Screen Pointing, Peephole, and Flick \& Pinch
+  Interaction for Map Navigation}.
+\newblock In \emph{Proceedings of the 3rd ACM Symposium on Spatial User
+  Interaction}, SUI '15, pages 99--102, New York, NY, USA, 2015. ACM.
+
+\bibitem[Hayatpur et~al.(2020)Hayatpur, Xia, and Wigdor]{hayatpur2020datahop}
+Hayatpur, D., Xia, H., and Wigdor, D.
+\newblock Datahop: Spatial data exploration in virtual reality.
+\newblock In \emph{Proceedings of the 33rd Annual ACM Symposium on User
+  Interface Software and Technology}, pages 818--828, 2020.
+
+\bibitem[Heer and Bostock(2010)]{heer2010crowdsourcing}
+Heer, J. and Bostock, M.
+\newblock Crowdsourcing graphical perception: using mechanical turk to assess
+  visualization design.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, pages 203--212, 2010.
+
+\bibitem[Helbig et~al.(2014)Helbig, Bauer, Rink, Wulfmeyer, Frank, and
+  Kolditz]{helbig2014concept}
+Helbig, C., Bauer, H.-S., Rink, K., Wulfmeyer, V., Frank, M., and Kolditz, O.
+\newblock Concept and workflow for 3d visualization of atmospheric data in a
+  virtual reality environment for analytical approaches.
+\newblock \emph{Environmental Earth Sciences}, 72\penalty0 (10):\penalty0
+  3767--3780, 2014.
+
+\bibitem[Hincapi{\'e}-Ramos et~al.(2014)Hincapi{\'e}-Ramos, Guo, Moghadasian,
+  and Irani]{hincapie2014consumed}
+Hincapi{\'e}-Ramos, J.~D., Guo, X., Moghadasian, P., and Irani, P.
+\newblock Consumed endurance: a metric to quantify arm fatigue of mid-air
+  interactions.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, pages 1063--1072, 2014.
+
+\bibitem[Hinckley et~al.(1994)Hinckley, Pausch, Goble, and
+  Kassell]{hinckley1994survey}
+Hinckley, K., Pausch, R., Goble, J.~C., and Kassell, N.~F.
+\newblock A survey of design issues in spatial input.
+\newblock In \emph{Proceedings of the 7th annual ACM symposium on User
+  interface software and technology}, pages 213--222. ACM, 1994.
+
+\bibitem[Hinkle et~al.(2003)Hinkle, Wiersma, and Jurs]{hinkle2003applied}
+Hinkle, D.~E., Wiersma, W., and Jurs, S.~G.
+\newblock \emph{Applied statistics for the behavioral sciences}, volume 663.
+\newblock Houghton Mifflin College Division, 2003.
+
+\bibitem[Hollander and Wolfe(1999)]{hollander1999nonparametric}
+Hollander, M. and Wolfe, D.~A.
+\newblock \emph{Nonparametric Statistical Methods}.
+\newblock Wiley-Interscience, New York, NY, USA, 1999.
+
+\bibitem[Hornb{\ae}k and Fr{\o}kj{\ae}r(2003)]{hornbaek2003reading}
+Hornb{\ae}k, K. and Fr{\o}kj{\ae}r, E.
+\newblock Reading patterns and usability in visualizations of electronic
+  documents.
+\newblock \emph{ACM Transactions on Computer-Human Interaction (TOCHI)},
+  10\penalty0 (2):\penalty0 119--149, 2003.
+
+\bibitem[Hornb{\ae}k and Oulasvirta(2017)]{hornbaek2017interaction}
+Hornb{\ae}k, K. and Oulasvirta, A.
+\newblock What is interaction?
+\newblock In \emph{Proceedings of the 2017 CHI Conference on Human Factors in
+  Computing Systems}, pages 5040--5052, 2017.
+
+\bibitem[Hruby et~al.(2019)Hruby, Ressl, and de~la Borbolla
+  Del~Valle]{hruby2019geovisualization}
+Hruby, F., Ressl, R., and de~la Borbolla Del~Valle, G.
+\newblock Geovisualization with immersive virtual environments in theory and
+  practice.
+\newblock \emph{International Journal of Digital Earth}, 12\penalty0
+  (2):\penalty0 123--136, 2019.
+
+\bibitem[Hruby et~al.(2020)Hruby, S{\'a}nchez, Ressl, and
+  Escobar-Briones]{hruby2020empirical}
+Hruby, F., S{\'a}nchez, L. F.~{\'A}., Ressl, R., and Escobar-Briones, E.~G.
+\newblock An empirical study on spatial presence in immersive geo-environments.
+\newblock \emph{PFG--Journal of Photogrammetry, Remote Sensing and
+  Geoinformation Science}, pages 1--9, 2020.
+
+\bibitem[Hurter et~al.(2018)Hurter, Riche, Drucker, Cordeil, Alligier, and
+  Vuillemot]{hurter2018fiberclay}
+Hurter, C., Riche, N.~H., Drucker, S.~M., Cordeil, M., Alligier, R., and
+  Vuillemot, R.
+\newblock Fiberclay: Sculpting three dimensional trajectories to reveal
+  structural insights.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics},
+  25\penalty0 (1):\penalty0 704--714, 2018.
+
+\bibitem[Ion et~al.(2013)Ion, Chang, Haller, Hancock, and Scott]{ion2013canyon}
+Ion, A., Chang, Y.-L.~B., Haller, M., Hancock, M., and Scott, S.~D.
+\newblock Canyon: providing location awareness of multiple moving objects in a
+  detail view on large displays.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, pages 3149--3158. ACM, 2013.
+
+\bibitem[Isenberg et~al.(2011)Isenberg, Elmqvist, Scholtz, Cernea, Ma, and
+  Hagen]{isenberg2011collaborative}
+Isenberg, P., Elmqvist, N., Scholtz, J., Cernea, D., Ma, K.-L., and Hagen, H.
+\newblock Collaborative visualization: Definition, challenges, and research
+  agenda.
+\newblock \emph{Information Visualization}, 10\penalty0 (4):\penalty0 310--326,
+  2011.
+
+\bibitem[Jacob and Sibert(1992)]{Jacob1992}
+Jacob, R. J.~K. and Sibert, L.~E.
+\newblock {The Perceptual Structure of Multidimensional Input Device
+  Selection}.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '92, pages 211--218, New York, NY, USA, 1992. ACM.
+
+\bibitem[Jacob et~al.(2008)Jacob, Girouard, Hirshfield, Horn, Shaer, Solovey,
+  and Zigelbaum]{jacob2008reality}
+Jacob, R.~J., Girouard, A., Hirshfield, L.~M., Horn, M.~S., Shaer, O., Solovey,
+  E.~T., and Zigelbaum, J.
+\newblock Reality-based interaction: a framework for post-wimp interfaces.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, pages 201--210, 2008.
+
+\bibitem[Jakobsen et~al.(2013)Jakobsen, Haile, Knudsen, and
+  Hornb{\ae}k]{jakobsen2013information}
+Jakobsen, M.~R., Haile, Y.~S., Knudsen, S., and Hornb{\ae}k, K.
+\newblock Information visualization and proxemics: design opportunities and
+  empirical findings.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics},
+  19\penalty0 (12):\penalty0 2386--2395, 2013.
+
+\bibitem[Jansen et~al.(2015)Jansen, Dragicevic, Isenberg, Alexander, Karnik,
+  Kildal, Subramanian, and Hornb{\ae}k]{jansen2015opportunities}
+Jansen, Y., Dragicevic, P., Isenberg, P., Alexander, J., Karnik, A., Kildal,
+  J., Subramanian, S., and Hornb{\ae}k, K.
+\newblock Opportunities and challenges for data physicalization.
+\newblock In \emph{Proceedings of the 33rd Annual ACM Conference on Human
+  Factors in Computing Systems}, pages 3227--3236, 2015.
+
+\bibitem[Jansen et~al.(2019)Jansen, Schjerlund, and
+  Hornb{\ae}k]{jansen2019effects}
+Jansen, Y., Schjerlund, J., and Hornb{\ae}k, K.
+\newblock Effects of locomotion and visual overview on spatial memory when
+  interacting with wall displays.
+\newblock In \emph{Proceedings of the 2019 CHI Conference on Human Factors in
+  Computing Systems}, pages 1--12, 2019.
+
+\bibitem[Jarvis(1973)]{jarvis1973identification}
+Jarvis, R.~A.
+\newblock On the identification of the convex hull of a finite set of points in
+  the plane.
+\newblock \emph{Information Processing Letters}, 2\penalty0 (1):\penalty0
+  18--21, 1973.
+
+\bibitem[Javed and Elmqvist(2010)]{javed2010stack}
+Javed, W. and Elmqvist, N.
+\newblock Stack zooming for multi-focus interaction in time-series data
+  visualization.
+\newblock In \emph{2010 IEEE Pacific Visualization Symposium (PacificVis)},
+  pages 33--40. IEEE, 2010.
+
+\bibitem[Javed and Elmqvist(2012)]{javed2012exploring}
+Javed, W. and Elmqvist, N.
+\newblock Exploring the design space of composite visualization.
+\newblock In \emph{2012 IEEE Pacific Visualization Symposium}, pages 1--8.
+  IEEE, 2012.
+
+\bibitem[Javed et~al.(2012)Javed, Ghani, and Elmqvist]{Javed2012}
+Javed, W., Ghani, S., and Elmqvist, N.
+\newblock {Polyzoom: Multiscale and Multifocus Exploration in 2D Visual
+  Spaces}.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '12, pages 287--296, New York, NY, USA, 2012. ACM.
+
+\bibitem[Jekel(2016)]{Jekel2016}
+Jekel, C.
+\newblock Obtaining non-linear orthotropic material models for pvc-coated
+  polyester via inverse bubble inflation.
+\newblock Thesis, Stellenbosch University, 2016.
+\newblock URL \url{https://hdl.handle.net/10019.1/98627}.
+\newblock [Accessed on: Nov 20, 2019].
+
+\bibitem[Jerald(2015)]{jerald2015vr}
+Jerald, J.
+\newblock \emph{The VR book: Human-centered design for virtual reality}.
+\newblock Morgan \& Claypool, 2015.
+
+\bibitem[Jiang(1996)]{jiang1996cartographic}
+Jiang, B.
+\newblock Cartographic visualization: analytical and communication tools.
+\newblock \emph{Cartography}, 25\penalty0 (2):\penalty0 1--11, 1996.
+
+\bibitem[Jones et~al.(2012)Jones, Sodhi, Forsyth, Bailey, and
+  Maciocci]{Jones2012}
+Jones, B., Sodhi, R., Forsyth, D., Bailey, B., and Maciocci, G.
+\newblock {Around Device Interaction for Multiscale Navigation}.
+\newblock In \emph{Proceedings of the 14th International Conference on
+  Human-computer Interaction with Mobile Devices and Services}, MobileHCI '12,
+  pages 83--92, New York, NY, USA, 2012. ACM.
+
+\bibitem[Josh et~al.(2020)Josh, Craig, Richard, and Mark]{_josh__silent_2020}
+Josh, D., Craig, B., Richard, L., and Mark, S.
+\newblock Silent {Skies}, May 2020.
+\newblock URL
+  \url{https://www.theage.com.au/interactive/2020/coronavirus/silent-skies/index.html}.
+\newblock [Accessed on: Jan 20, 2021].
+
+\bibitem[Jul and Furnas(1998)]{jul1998critical}
+Jul, S. and Furnas, G.~W.
+\newblock Critical zones in desert fog: aids to multiscale navigation.
+\newblock In \emph{Proceedings of the 11th Annual ACM Symposium on User
+  Interface Software and Technology}, pages 97--106. ACM, 1998.
+
+\bibitem[Kapler and Wright(2005)]{kapler2005geotime}
+Kapler, T. and Wright, W.
+\newblock Geotime information visualization.
+\newblock \emph{Information Visualization}, 4\penalty0 (2):\penalty0 136--146,
+  2005.
+
+\bibitem[Karnick et~al.(2009)Karnick, Cline, Jeschke, Razdan, and
+  Wonka]{karnick2009route}
+Karnick, P., Cline, D., Jeschke, S., Razdan, A., and Wonka, P.
+\newblock Route visualization using detail lenses.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics},
+  16\penalty0 (2):\penalty0 235--247, 2009.
+
+\bibitem[Klapperstueck et~al.(2018)Klapperstueck, Czauderna, Goncu, Glowacki,
+  Dwyer, Schreiber, and Marriott]{klapperstueck2018contextuwall}
+Klapperstueck, M., Czauderna, T., Goncu, C., Glowacki, J., Dwyer, T.,
+  Schreiber, F., and Marriott, K.
+\newblock {ContextuWall}: {M}ulti-site collaboration using display walls.
+\newblock \emph{Journal of Visual Languages \& Computing}, 46:\penalty0 35--42,
+  2018.
+
+\bibitem[Kraak(1998)]{kraak1998cartographic}
+Kraak, M.-J.
+\newblock The cartographic visualization process: from presentation to
+  exploration.
+\newblock \emph{The Cartographic Journal}, 35\penalty0 (1):\penalty0 11--15,
+  1998.
+
+\bibitem[Kraak(2003)]{kraak2003geovisualization}
+Kraak, M.-J.
+\newblock Geovisualization illustrated.
+\newblock \emph{ISPRS Journal of Photogrammetry and Remote Sensing},
+  57\penalty0 (5-6):\penalty0 390--399, 2003.
+
+\bibitem[Kruijff et~al.(2019)Kruijff, Orlosky, Kishishita, Trepkowski, and
+  Kiyokawa]{kruijff2018influence}
+Kruijff, E., Orlosky, J., Kishishita, N., Trepkowski, C., and Kiyokawa, K.
+\newblock The influence of label design on search performance and noticeability
+  in wide field of view augmented reality displays.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics},
+  25\penalty0 (9):\penalty0 2821--2837, 2019.
+
+\bibitem[Kuhn(1955)]{kuhn1955hungarian}
+Kuhn, H.~W.
+\newblock The hungarian method for the assignment problem.
+\newblock \emph{Naval Research Logistics Quarterly}, 2\penalty0
+  (1--2):\penalty0 83--97, 1955.
+
+\bibitem[Lam and Munzner(2010)]{lam2010guide}
+Lam, H. and Munzner, T.
+\newblock A guide to visual multi-level interface design from synthesis of
+  empirical study evidence.
+\newblock \emph{Synthesis Lectures on Visualization}, 1\penalty0 (1):\penalty0
+  1--117, 2010.
+\newblock \doi{https://doi.org/10.2200/S00308ED1V01Y201011VIS001}.
+
+\bibitem[Lam and Quattrochi(1992)]{lam1992issues}
+Lam, N. S.-N. and Quattrochi, D.~A.
+\newblock On the issues of scale, resolution, and fractal analysis in the
+  mapping sciences.
+\newblock \emph{The Professional Geographer}, 44\penalty0 (1):\penalty0 88--98,
+  1992.
+
+\bibitem[Lambert et~al.(2010)Lambert, Bourqui, and Auber]{lambert20103d}
+Lambert, A., Bourqui, R., and Auber, D.
+\newblock 3d edge bundling for geographical data visualization.
+\newblock In \emph{2010 14th International Conference Information
+  Visualisation}, pages 329--335. IEEE, 2010.
+
+\bibitem[LaViola~Jr et~al.(2017)LaViola~Jr, Kruijff, McMahan, Bowman, and
+  Poupyrev]{laviola20173d}
+LaViola~Jr, J.~J., Kruijff, E., McMahan, R.~P., Bowman, D., and Poupyrev, I.~P.
+\newblock \emph{3D user interfaces: theory and practice}.
+\newblock Addison-Wesley Professional, 2017.
+
+\bibitem[{Leap Motion}(2018)]{projectnorthstar}
+{Leap Motion}.
+\newblock {Project North Star}.
+\newblock \url{http://blog.leapmotion.com/northstar/}, 2018.
+
+\bibitem[Lee et~al.(2021{\natexlab{a}})Lee, Brown, Lee, Hurter, Drucker, and
+  Dwyer]{lee2021vis}
+Lee, B., Brown, D., Lee, B., Hurter, C., Drucker, S., and Dwyer, T.
+\newblock Data visceralization: Enabling deeper understanding of data using
+  virtual reality.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics},
+  27\penalty0 (2):\penalty0 1095--1105, 2021{\natexlab{a}}.
+
+\bibitem[Lee et~al.(2021{\natexlab{b}})Lee, Hu, Cordeil, Prouzeau, Jenny, and
+  Dwyer]{lee2020shared}
+Lee, B., Hu, X., Cordeil, M., Prouzeau, A., Jenny, B., and Dwyer, T.
+\newblock Shared surfaces and spaces: Collaborative data visualisation in a
+  co-located immersive environment.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics},
+  27\penalty0 (2):\penalty0 1171--1181, 2021{\natexlab{b}}.
+
+\bibitem[Lekschas et~al.(2019)Lekschas, Behrisch, Bach, Kerpedjiev, Gehlenborg,
+  and Pfister]{lekschas2019pattern}
+Lekschas, F., Behrisch, M., Bach, B., Kerpedjiev, P., Gehlenborg, N., and
+  Pfister, H.
+\newblock Pattern-driven navigation in 2d multiscale visualizations with
+  scalable insets.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics},
+  26\penalty0 (1):\penalty0 611--621, 2019.
+
+\bibitem[Lhuillier et~al.(2017)Lhuillier, Hurter, and
+  Telea]{lhuillier2017state}
+Lhuillier, A., Hurter, C., and Telea, A.
+\newblock State of the art in edge and trail bundling techniques.
+\newblock In \emph{Computer Graphics Forum}, volume~36, pages 619--645. Wiley
+  Online Library, 2017.
+
+\bibitem[Li et~al.(2015)Li, Wu, Pan, and Huang]{li2015application}
+Li, B., Wu, J., Pan, M., and Huang, J.
+\newblock Application of 3d webgis and real-time technique in earthquake
+  information publishing and visualization.
+\newblock \emph{Earthquake Science}, 28\penalty0 (3):\penalty0 223--231, 2015.
+
+\bibitem[Li and Wang(2017)]{li2017polarglobe}
+Li, W. and Wang, S.
+\newblock Polarglobe: A web-wide virtual globe system for visualizing
+  multidimensional, time-varying, big climate data.
+\newblock \emph{International Journal of Geographical Information Science},
+  31\penalty0 (8):\penalty0 1562--1582, 2017.
+
+\bibitem[Lien et~al.(2016)Lien, Gillian, Karagozler, Amihood, Schwesig, Olson,
+  Raja, and Poupyrev]{Lien2016}
+Lien, J., Gillian, N., Karagozler, M.~E., Amihood, P., Schwesig, C., Olson, E.,
+  Raja, H., and Poupyrev, I.
+\newblock {Soli: Ubiquitous Gesture Sensing with Millimeter Wave Radar}.
+\newblock \emph{ACM Transactions on Graphics}, 35\penalty0 (4):\penalty0 1--19,
+  2016.
+\newblock ISSN 07300301.
+
+\bibitem[Lischke et~al.(2017)Lischke, Mayer, Hoffmann, Kratzer, Roth, Wolf, and
+  Wo{\'z}niak]{lischke2017interaction}
+Lischke, L., Mayer, S., Hoffmann, J., Kratzer, P., Roth, S., Wolf, K., and
+  Wo{\'z}niak, P.
+\newblock Interaction techniques for window management on large high-resolution
+  displays.
+\newblock In \emph{Proceedings of the 16th International Conference on Mobile
+  and Ubiquitous Multimedia}, pages 241--247, 2017.
+
+\bibitem[Lisle et~al.(2020)Lisle, Chen, Gitre, North, and
+  Bowman]{lisle2020evaluating}
+Lisle, L., Chen, X., Gitre, J.~E., North, C., and Bowman, D.~A.
+\newblock Evaluating the benefits of the immersive space to think.
+\newblock In \emph{2020 IEEE Conference on Virtual Reality and 3D User
+  Interfaces Abstracts and Workshops (VRW)}, pages 331--337. IEEE, 2020.
+
+\bibitem[Liu et~al.(2020)Liu, Prouzeau, Ens, and Dwyer]{liu2020design}
+Liu, J., Prouzeau, A., Ens, B., and Dwyer, T.
+\newblock Design and evaluation of interactive small multiples data
+  visualisation in immersive spaces.
+\newblock In \emph{2020 IEEE Conference on Virtual Reality and 3D User
+  Interfaces (VR)}, pages 588--597. IEEE, 2020.
+
+\bibitem[Liu et~al.(2015)Liu, Nancel, and Vogel]{Liu:2015:GSA:2807442.2807489}
+Liu, M., Nancel, M., and Vogel, D.
+\newblock Gunslinger: Subtle arms-down mid-air interaction.
+\newblock In \emph{Proceedings of the 28th Annual ACM Symposium on User
+  Interface Software {\&} Technology}, UIST '15, pages 63--71, New York, NY,
+  USA, 2015. ACM.
+\newblock ISBN 978-1-4503-3779-3.
+
+\bibitem[Liu and Heer(2014)]{liu2014effects}
+Liu, Z. and Heer, J.
+\newblock The effects of interactive latency on exploratory visual analysis.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics},
+  20\penalty0 (12):\penalty0 2122--2131, 2014.
+
+\bibitem[Liu and Stasko(2010)]{liu2010mental}
+Liu, Z. and Stasko, J.
+\newblock Mental models, visual reasoning and interaction in information
+  visualization: A top-down perspective.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics},
+  16\penalty0 (6):\penalty0 999--1008, 2010.
+
+\bibitem[Loomis et~al.(1999)Loomis, Blascovich, and Beall]{loomis1999immersive}
+Loomis, J.~M., Blascovich, J.~J., and Beall, A.~C.
+\newblock Immersive virtual environment technology as a basic research tool in
+  psychology.
+\newblock \emph{Behavior Research Methods, Instruments, \& Computers},
+  31\penalty0 (4):\penalty0 557--564, 1999.
+
+\bibitem[Lubos et~al.(2016)Lubos, Bruder, Ariza, and Steinicke]{Lubos2016}
+Lubos, P., Bruder, G., Ariza, O., and Steinicke, F.
+\newblock {Touching the Sphere: Leveraging Joint-Centered Kinespheres for
+  Spatial User Interaction}.
+\newblock In \emph{Proceedings of the 2016 Symposium on Spatial User
+  Interaction}, SUI '16, pages 13--22, New York, NY, USA, 2016. ACM.
+
+\bibitem[L{\"u}ckert(2020)]{marlon__covidar_2020}
+L{\"u}ckert, M.
+\newblock {CovidAR} - {D}ata visualization in augmented reality, 2020.
+\newblock URL
+  \url{https://devpost.com/software/covidar-data-visualization-in-augmented-reality}.
+\newblock [Accessed on: May 20, 2020].
+
+\bibitem[MacEachren(1992)]{maceachren1992visualizing}
+MacEachren, A.~M.
+\newblock Visualizing uncertain information.
+\newblock \emph{Cartographic Perspectives}, \penalty0 (13):\penalty0 10--19,
+  1992.
+
+\bibitem[MacEachren and Ganter(1990)]{maceachren1990pattern}
+MacEachren, A.~M. and Ganter, J.~H.
+\newblock A pattern identification approach to cartographic visualization.
+\newblock \emph{Cartographica: The International Journal for Geographic
+  Information and Geovisualization}, 27\penalty0 (2):\penalty0 64--81, 1990.
+
+\bibitem[MacEachren and Kraak(1997)]{maceachren1997exploratory}
+MacEachren, A.~M. and Kraak, M.-J.
+\newblock Exploratory cartographic visualization: Advancing the agenda.
+\newblock \emph{Computers \& Geosciences}, 23\penalty0 (4):\penalty0 335--343,
+  1997.
+
+\bibitem[MacEachren and Kraak(2001)]{maceachren2001research}
+MacEachren, A.~M. and Kraak, M.-J.
+\newblock Research challenges in geovisualization.
+\newblock \emph{Cartography and Geographic Information Science}, 28\penalty0
+  (1):\penalty0 3--12, 2001.
+
+\bibitem[MacEachren and Taylor(2013)]{maceachren2013visualization}
+MacEachren, A.~M. and Taylor, D.~F.
+\newblock \emph{Visualization in modern cartography}.
+\newblock Elsevier, 2013.
+
+\bibitem[MacEachren et~al.(1999)MacEachren, Edsall, Haug, Baxter, Otto,
+  Masters, Fuhrmann, and Qian]{maceachren1999virtual}
+MacEachren, A.~M., Edsall, R., Haug, D., Baxter, R., Otto, G., Masters, R.,
+  Fuhrmann, S., and Qian, L.
+\newblock Virtual environments for geographic visualization: Potential and
+  challenges.
+\newblock In \emph{Proceedings of the 1999 Workshop on New Paradigms in
+  Information Visualization and Manipulation in Conjunction with the Eighth ACM
+  Internation Conference on Information and Knowledge Management}, pages
+  35--40, 1999.
+
+\bibitem[MacEachren et~al.(2004)MacEachren, Gahegan, Pike, Brewer, Cai,
+  Lengerich, and Hardistry]{maceachren2004geovisualization}
+MacEachren, A.~M., Gahegan, M., Pike, W., Brewer, I., Cai, G., Lengerich, E.,
+  and Hardistry, F.
+\newblock Geovisualization for knowledge construction and decision support.
+\newblock \emph{IEEE Computer Graphics and Applications}, 24\penalty0
+  (1):\penalty0 13--17, 2004.
+
+\bibitem[Mackinlay(1986)]{mackinlay1986automating}
+Mackinlay, J.
+\newblock Automating the design of graphical presentations of relational
+  information.
+\newblock \emph{ACM Transactions on Graphics}, 5\penalty0 (2):\penalty0
+  110--141, 1986.
+
+\bibitem[Mahmood et~al.(2019)Mahmood, Fulmer, Mungoli, Huang, and
+  Lu]{mahmood2019improving}
+Mahmood, T., Fulmer, W., Mungoli, N., Huang, J., and Lu, A.
+\newblock Improving information sharing and collaborative analysis for remote
+  geospatial visualization using mixed reality.
+\newblock In \emph{2019 IEEE International Symposium on Mixed and Augmented
+  Reality (ISMAR)}, pages 236--247. IEEE, 2019.
+
+\bibitem[Malacria et~al.(2010)Malacria, Lecolinet, and Guiard]{Malacria2010}
+Malacria, S., Lecolinet, E., and Guiard, Y.
+\newblock {Clutch-Free Panning and Integrated Pan-Zoom Control on
+  Touch-Sensitive Surfaces: The CycloStar Approach}.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '10, pages 2615--2624, New York, NY, USA, 2010. ACM.
+
+\bibitem[Malik et~al.(2005)Malik, Ranjan, and
+  Balakrishnan]{malik2005interacting}
+Malik, S., Ranjan, A., and Balakrishnan, R.
+\newblock Interacting with large displays from a distance with vision-tracked
+  multi-finger gestural input.
+\newblock In \emph{Proceedings of the 18th Annual ACM Symposium on User
+  Interface Software and Technology}, pages 43--52, New York, NY, USA, 2005.
+  ACM.
+
+\bibitem[Marriott et~al.(2018)Marriott, Chen, Hlawatsch, Itoh, Nacenta, Reina,
+  and Stuerzlinger]{marriott2018immersive2}
+Marriott, K., Chen, J., Hlawatsch, M., Itoh, T., Nacenta, M.~A., Reina, G., and
+  Stuerzlinger, W.
+\newblock Immersive analytics: Time to reconsider the value of 3d for
+  information visualisation.
+\newblock In \emph{Immersive Analytics}, pages 25--55. Springer, 2018.
+
+\bibitem[McCallum and Irani(2009)]{mccallum2009arc}
+McCallum, D.~C. and Irani, P.
+\newblock Arc-pad: absolute+ relative cursor positioning for large displays
+  with a mobile touchscreen.
+\newblock In \emph{Proceedings of the 22nd Annual ACM Symposium on User
+  Interface Software and Technology}, pages 153--156, New York, NY, USA, 2009.
+  ACM.
+
+\bibitem[McCormack et~al.(2018)McCormack, Roberts, Bach, Freitas, Itoh, Hurter,
+  and Marriott]{mccormack2018multisensory}
+McCormack, J., Roberts, J.~C., Bach, B., Freitas, C. D.~S., Itoh, T., Hurter,
+  C., and Marriott, K.
+\newblock Multisensory immersive analytics.
+\newblock In \emph{Immersive Analytics}, pages 57--94. Springer, 2018.
+
+\bibitem[McCormick(1988)]{mccormick1988visualization}
+McCormick, B.~H.
+\newblock Visualization in scientific computing.
+\newblock \emph{ACM Sigbio Newsletter}, 10\penalty0 (1):\penalty0 15--21, 1988.
+
+\bibitem[McKenna et~al.(2017)McKenna, Henry~Riche, Lee, Boy, and
+  Meyer]{mckenna2017visual}
+McKenna, S., Henry~Riche, N., Lee, B., Boy, J., and Meyer, M.
+\newblock Visual narrative flow: Exploring factors shaping data visualization
+  story reading experiences.
+\newblock In \emph{Computer Graphics Forum}, volume~36, pages 377--387. Wiley
+  Online Library, 2017.
+
+\bibitem[McMaster and Shea(1992)]{mcmaster1992}
+McMaster, R.~B. and Shea, K.~S.
+\newblock \emph{Generalization in digital cartography}.
+\newblock 1992.
+\newblock URL
+  \url{http://geoinformatics.ntua.gr/courses/admcarto/lecture_notes/generalisation/bibliography/mcmaster_shea_1992.pdf}.
+\newblock [Accessed on: Feb 15, 2021].
+
+\bibitem[Merriam-Webster.com({\natexlab{a}})]{merriamwebstermethod}
+Merriam-Webster.com.
+\newblock Method, {\natexlab{a}}.
+\newblock URL \url{https://www.merriam-webster.com/dictionary/theory}.
+\newblock [Accessed on: Jan 05, 2021].
+
+\bibitem[Merriam-Webster.com({\natexlab{b}})]{merriamwebstertheory}
+Merriam-Webster.com.
+\newblock Theory, {\natexlab{b}}.
+\newblock URL \url{https://www.merriam-webster.com/dictionary/theory}.
+\newblock [Accessed on: Jan 05, 2021].
+
+\bibitem[Merriam-Webster.com({\natexlab{c}})]{merriamwebstertool}
+Merriam-Webster.com.
+\newblock Tool, {\natexlab{c}}.
+\newblock URL \url{https://www.merriam-webster.com/dictionary/theory}.
+\newblock [Accessed on: Jan 05, 2021].
+
+\bibitem[{Meta Company}(2016)]{meta2}
+{Meta Company}.
+\newblock {Meta 2}, 2016.
+\newblock URL \url{https://www.metavision.com/}.
+\newblock [Accessed on: Feb 03, 2021].
+
+\bibitem[Miau and Feiner(2018)]{Miau2018}
+Miau, D. and Feiner, S.
+\newblock {SpaceTokens: Interactive Map Widgets for Location-centric
+  Interactions}.
+\newblock In \emph{Proceedings of the 2018 CHI Conference on Human Factors in
+  Computing Systems}, CHI '18, pages 248:1--248:12, New York, NY, USA, 2018.
+  ACM.
+\newblock ISBN 978-1-4503-5620-6.
+
+\bibitem[Microsoft(2015)]{noauthor_globe_2015}
+Microsoft.
+\newblock Globe {Map}, 2015.
+\newblock URL
+  \url{https://appsource.microsoft.com/en-us/product/power-bi-visuals/WA104380799}.
+\newblock [Accessed on: May 10, 2020].
+
+\bibitem[Microsoft(2016)]{hololens}
+Microsoft.
+\newblock {HoloLens}.
+\newblock \url{https://www.microsoft.com/en-US/hololens}, 2016.
+
+\bibitem[Milgram and Kishino(1994)]{milgram1994taxonomy}
+Milgram, P. and Kishino, F.
+\newblock A taxonomy of mixed reality visual displays.
+\newblock \emph{IEICE TRANSACTIONS on Information and Systems}, 77\penalty0
+  (12):\penalty0 1321--1329, 1994.
+
+\bibitem[Mine et~al.(1997)Mine, Brooks~Jr, and Sequin]{mine1997moving}
+Mine, M.~R., Brooks~Jr, F.~P., and Sequin, C.~H.
+\newblock Moving objects in space: exploiting proprioception in
+  virtual-environment interaction.
+\newblock In \emph{Proceedings of the 24th Annual Conference on Computer
+  Graphics and Interactive Techniques}, pages 19--26, 1997.
+
+\bibitem[Mine et~al.(2012)Mine, Van~Baar, Grundhofer, Rose, and
+  Yang]{mine2012projection}
+Mine, M.~R., Van~Baar, J., Grundhofer, A., Rose, D., and Yang, B.
+\newblock Projection-based augmented reality in disney theme parks.
+\newblock \emph{Computer}, 45\penalty0 (7):\penalty0 32--40, 2012.
+
+\bibitem[Montello and Freundschuh(2005)]{montello2005cognition}
+Montello, D.~R. and Freundschuh, S.
+\newblock \emph{A Research Agenda for Geographic Information Science}, chapter
+  Cognition of geographic information.
+\newblock CRC Press Boca Raton, FL, 2005.
+
+\bibitem[Montello and Golledge(1998)]{montello1998scale}
+Montello, D.~R. and Golledge, R.~G.
+\newblock \emph{Scale and Detail in the Cognition of Geographic Information,
+  Final Report}.
+\newblock 1998.
+\newblock URL \url{https://escholarship.org/uc/item/1hf6d3fx}.
+\newblock [Accessed on: March 10, 2021].
+
+\bibitem[Munzner(2014)]{munzner2014visualization}
+Munzner, T.
+\newblock \emph{Visualization analysis and design}.
+\newblock CRC Press, 2014.
+
+\bibitem[Nabiyouni et~al.(2014)Nabiyouni, Laha, and
+  Bowman]{nabiyouni2014poster}
+Nabiyouni, M., Laha, B., and Bowman, D.~A.
+\newblock Poster: Designing effective travel techniques with bare-hand
+  interaction.
+\newblock In \emph{3D User Interfaces (3DUI), 2014 IEEE Symposium on}, pages
+  139--140. IEEE, 2014.
+
+\bibitem[Nancel et~al.(2011)Nancel, Wagner, Pietriga, Chapuis, and
+  Mackay]{Nancel2011}
+Nancel, M., Wagner, J., Pietriga, E., Chapuis, O., and Mackay, W.
+\newblock {Mid-air Pan-and-Zoom on Wall-sized Displays}.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '11, pages 177--186, New York, NY, USA, 2011. ACM.
+
+\bibitem[Nancel et~al.(2013)Nancel, Chapuis, Pietriga, Yang, Irani, and
+  Beaudouin-Lafon]{Nancel2013}
+Nancel, M., Chapuis, O., Pietriga, E., Yang, X.-D., Irani, P.~P., and
+  Beaudouin-Lafon, M.
+\newblock {High-precision Pointing on Large Wall Displays Using Small Handheld
+  Devices}.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '13, pages 831--840, New York, NY, USA, 2013. ACM.
+\newblock ISBN 9781450318990.
+
+\bibitem[{National Aeronautics and Space Administration
+  (NASA)}(1995)]{nasa1995std}
+{National Aeronautics and Space Administration (NASA)}.
+\newblock Nasa-std-3000: Man-systems integration standards, revision b, 1995.
+\newblock URL \url{https://msis.jsc.nasa.gov/}.
+\newblock [Accessed on: June 10, 2018].
+
+\bibitem[Negulescu et~al.(2011)Negulescu, Ruiz, and Lank]{Negulescu2011}
+Negulescu, M., Ruiz, J., and Lank, E.
+\newblock {ZoomPointing Revisited: Supporting Mixed-resolution Gesturing on
+  Interactive Surfaces}.
+\newblock In \emph{Proceedings of the ACM International Conference on
+  Interactive Tabletops and Surfaces}, ITS '11, pages 150--153, New York, NY,
+  USA, 2011. ACM.
+
+\bibitem[Netek et~al.(2019)Netek, Brus, and Tomecka]{netek2019performance}
+Netek, R., Brus, J., and Tomecka, O.
+\newblock Performance testing on marker clustering and heatmap visualization
+  techniques: a comparative study on javascript mapping libraries.
+\newblock \emph{ISPRS International Journal of Geo-Information}, 8\penalty0
+  (8):\penalty0 348, 2019.
+
+\bibitem[Newbury et~al.(2021)Newbury, Satriadi, Bolton, Liu, Cordeil, Prouzeau,
+  and Jenny]{newbury2021embodied}
+Newbury, R., Satriadi, K.~A., Bolton, J., Liu, J., Cordeil, M., Prouzeau, A.,
+  and Jenny, B.
+\newblock Embodied gesture interaction for immersive maps.
+\newblock \emph{Cartography and Geographic Information Science}, pages 1--15,
+  2021.
+
+\bibitem[Newell et~al.(2017)Newell, Canessa, and Sharma]{newell2017visualizing}
+Newell, R., Canessa, R., and Sharma, T.
+\newblock Visualizing our options for coastal places: Exploring realistic
+  immersive geovisualizations as tools for inclusive approaches to coastal
+  planning and management.
+\newblock \emph{Frontiers in Marine Science}, 4:\penalty0 290, 2017.
+
+\bibitem[Nguyen et~al.(2017)Nguyen, Wang, Williams, Engelke, Kruger, and
+  De~Souza]{nguyen2017immersive}
+Nguyen, H., Wang, F., Williams, R., Engelke, U., Kruger, A., and De~Souza, P.
+\newblock Immersive visual analysis of insect flight behaviour.
+\newblock In \emph{IEEE VIS Workshop on Immersive Analytics: Exploring Future
+  Interaction and Visualization Technologies for Data Analytics}, 2017.
+
+\bibitem[Ni et~al.(2006)Ni, Bowman, and Chen]{ni2006increased}
+Ni, T., Bowman, D.~A., and Chen, J.
+\newblock Increased display size and resolution improve task performance in
+  information-rich virtual environments.
+\newblock In \emph{Proceedings of Graphics Interface 2006}, pages 139--146.
+  Canadian Information Processing Society, 2006.
+
+\bibitem[Nielsen(1993)]{nielsen1993noncommand}
+Nielsen, J.
+\newblock Noncommand user interfaces.
+\newblock \emph{Communications of the ACM}, 36\penalty0 (4):\penalty0 83--99,
+  1993.
+
+\bibitem[Norman and Draper(1986)]{norman1986user}
+Norman, D.~A. and Draper, S.~W.
+\newblock \emph{User centered system design: New perspectives on human-computer
+  interaction}.
+\newblock CUMINCAD, 1986.
+
+\bibitem[Novet(2021)]{novet_2021}
+Novet, J.
+\newblock Microsoft wins u.s. army contract for augmented reality headsets,
+  worth up to \$21.9 billion over 10 years, Mar 2021.
+\newblock URL
+  \url{https://www.cnbc.com/2021/03/31/microsoft-wins-contract-to-make-modified-hololens-for-us-army.html}.
+\newblock [Accessed on: May 20, 2021].
+
+\bibitem[Oakley and O'Modhrain(2005)]{oakley2005tilt}
+Oakley, I. and O'Modhrain, S.
+\newblock Tilt to scroll: Evaluating a motion based vibrotactile mobile
+  interface.
+\newblock In \emph{First Joint Eurohaptics Conference and Symposium on Haptic
+  Interfaces for Virtual Environment and Teleoperator Systems. World Haptics
+  Conference}, pages 40--49. IEEE, 2005.
+
+\bibitem[Okada et~al.(2018)Okada, Yoshida, Itoh, Czauderna, and
+  Stephens]{okada2018spatio}
+Okada, K., Yoshida, M., Itoh, T., Czauderna, T., and Stephens, K.
+\newblock Spatio-temporal visualization of tweet data around tokyo disneyland
+  using vr.
+\newblock In \emph{Proceedings of the 23rd International Conference on
+  Intelligent User Interfaces Companion}, pages 1--2, 2018.
+
+\bibitem[{Ong Innovations}(2018)]{noauthor_data_2018}
+{Ong Innovations}.
+\newblock Data {Globe}, 2018.
+\newblock URL \url{https://www.onginnovations.com/data-globe}.
+\newblock [Accessed on: April 12, 2020].
+
+\bibitem[Palan and Schitter(2018)]{palan2018prolific}
+Palan, S. and Schitter, C.
+\newblock Prolific. ac—a subject pool for online experiments.
+\newblock \emph{Journal of Behavioral and Experimental Finance}, 17:\penalty0
+  22--27, 2018.
+
+\bibitem[Patterson(2007)]{patterson2007google}
+Patterson, T.~C.
+\newblock Google earth as a (not just) geography education tool.
+\newblock \emph{Journal of Geography}, 106\penalty0 (4):\penalty0 145--152,
+  2007.
+
+\bibitem[Peer et~al.(2017)Peer, Brandimarte, Samat, and
+  Acquisti]{peer2017beyond}
+Peer, E., Brandimarte, L., Samat, S., and Acquisti, A.
+\newblock Beyond the turk: Alternative platforms for crowdsourcing behavioral
+  research.
+\newblock \emph{Journal of Experimental Social Psychology}, 70:\penalty0
+  153--163, 2017.
+
+\bibitem[Peffers et~al.(2007)Peffers, Tuunanen, Rothenberger, and
+  Chatterjee]{peffers2007design}
+Peffers, K., Tuunanen, T., Rothenberger, M.~A., and Chatterjee, S.
+\newblock A design science research methodology for information systems
+  research.
+\newblock \emph{Journal of Management Information Systems}, 24\penalty0
+  (3):\penalty0 45--77, 2007.
+
+\bibitem[Pfeuffer et~al.(2016)Pfeuffer, Alexander, and Gellersen]{Pfeuffer2016}
+Pfeuffer, K., Alexander, J., and Gellersen, H.
+\newblock {Partially-indirect Bimanual Input with Gaze, Pen, and Touch for Pan,
+  Zoom, and Ink Interaction}.
+\newblock In \emph{Proceedings of the 2016 CHI Conference on Human Factors in
+  Computing Systems}, CHI '16, pages 2845--2856, New York, NY, USA, 2016. ACM.
+\newblock ISBN 9781450333627.
+
+\bibitem[Philips et~al.(2015)Philips, Walz, Bergner, Graeff, Heistermann,
+  Kienzler, Korup, Lipp, Schwanghart, and Zeilinger]{philips2015immersive}
+Philips, A., Walz, A., Bergner, A., Graeff, T., Heistermann, M., Kienzler, S.,
+  Korup, O., Lipp, T., Schwanghart, W., and Zeilinger, G.
+\newblock Immersive 3d geovisualization in higher education.
+\newblock \emph{Journal of Geography in Higher Education}, 39\penalty0
+  (3):\penalty0 437--449, 2015.
+
+\bibitem[Piumsomboon et~al.(2014)Piumsomboon, Altimira, Kim, Clark, Lee, and
+  Billinghurst]{piumsomboon2014grasp}
+Piumsomboon, T., Altimira, D., Kim, H., Clark, A., Lee, G., and Billinghurst,
+  M.
+\newblock {Grasp-Shell vs gesture-speech: A comparison of direct and indirect
+  natural interaction techniques in augmented reality}.
+\newblock In \emph{2014 IEEE International Symposium on Mixed and Augmented
+  Reality (ISMAR)}, pages 73--82. IEEE, 2014.
+
+\bibitem[Plumlee and Ware(2002)]{plumlee2002zooming}
+Plumlee, M. and Ware, C.
+\newblock Zooming, multiple windows, and visual working memory.
+\newblock In \emph{Proceedings of the Working Conference on Advanced Visual
+  Interfaces}, pages 59--68. ACM, 2002.
+
+\bibitem[Plumlee and Ware(2006)]{plumlee2006zooming}
+Plumlee, M.~D. and Ware, C.
+\newblock Zooming versus multiple window interfaces: Cognitive costs of visual
+  comparisons.
+\newblock \emph{ACM Transactions on Computer-Human Interaction (TOCHI)},
+  13\penalty0 (2):\penalty0 179--209, 2006.
+
+\bibitem[Polyanin and Manzhirov(2006)]{polyanin2006handbook}
+Polyanin, A.~D. and Manzhirov, A.~V.
+\newblock \emph{Handbook of mathematics for engineers and scientists}.
+\newblock CRC Press, 2006.
+
+\bibitem[Popelka and Dolezalova(2016)]{popelka2016differences}
+Popelka, S. and Dolezalova, J.
+\newblock Differences between 2d map and virtual globe containing point symbol
+  -- an eye-tracking study.
+\newblock In \emph{Proceedings International Multidisciplinary Scientific
+  GeoConference SGEM 2016}, pages 175--182, 2016.
+
+\bibitem[Prouzeau et~al.(2019)Prouzeau, Cordeil, Robin, Ens, Thomas, and
+  Dwyer]{prouzeau2019scaptics}
+Prouzeau, A., Cordeil, M., Robin, C., Ens, B., Thomas, B.~H., and Dwyer, T.
+\newblock Scaptics and highlight-planes: Immersive interaction techniques for
+  finding occluded features in 3d scatterplots.
+\newblock In \emph{Proceedings of the 2019 CHI Conference on Human Factors in
+  Computing Systems}, pages 1--12, 2019.
+
+\bibitem[Prouzeau et~al.(2020)Prouzeau, Wang, Ens, Willett, and
+  Dwyer]{prouzeau2020corsican}
+Prouzeau, A., Wang, Y., Ens, B., Willett, W., and Dwyer, T.
+\newblock Corsican twin: Authoring in situ augmented reality visualisations in
+  virtual reality.
+\newblock In \emph{Proceedings of the International Conference on Advanced
+  Visual Interfaces}, pages 1--9, 2020.
+
+\bibitem[Quach and Jenny(2020)]{quach2020immersive}
+Quach, Q. and Jenny, B.
+\newblock Immersive visualization with bar graphics.
+\newblock \emph{Cartography and Geographic Information Science}, 47\penalty0
+  (6):\penalty0 471--480, 2020.
+
+\bibitem[Raluca(2018)]{raluca__notitle_nodate}
+Raluca, N.
+\newblock World population count, 2018.
+\newblock URL
+  \url{https://ralucanicola.github.io/JSAPI_demos/world-population/}.
+\newblock [Accessed on: May 10, 2020].
+
+\bibitem[Reda et~al.(2015)Reda, Johnson, Papka, and Leigh]{reda2015effects}
+Reda, K., Johnson, A.~E., Papka, M.~E., and Leigh, J.
+\newblock Effects of display size and resolution on user behavior and insight
+  acquisition in visual exploration.
+\newblock In \emph{Proceedings of the 33rd Annual ACM Conference on Human
+  Factors in Computing Systems}, pages 2759--2768. ACM, 2015.
+
+\bibitem[Reski et~al.(2020)Reski, Alissandrakis, and
+  Kerren]{reski2020exploration}
+Reski, N., Alissandrakis, A., and Kerren, A.
+\newblock Exploration of time-oriented data in immersive virtual reality using
+  a 3d radar chart approach.
+\newblock In \emph{Proceedings of the 11th Nordic Conference on Human-Computer
+  Interaction: Shaping Experiences, Shaping Society}, pages 1--11, 2020.
+
+\bibitem[Ribarsky et~al.(1994)Ribarsky, Bolter, Den~Bosch, and
+  Van~Teylingen]{ribarsky1994visualization}
+Ribarsky, W., Bolter, J., Den~Bosch, A.~O., and Van~Teylingen, R.
+\newblock Visualization and analysis using virtual reality.
+\newblock \emph{IEEE Computer Graphics and Applications}, 14\penalty0
+  (1):\penalty0 10--12, 1994.
+
+\bibitem[Robertson et~al.(1998)Robertson, Czerwinski, Larson, Robbins, Thiel,
+  and Van~Dantzich]{robertson1998data}
+Robertson, G., Czerwinski, M., Larson, K., Robbins, D.~C., Thiel, D., and
+  Van~Dantzich, M.
+\newblock Data mountain: using spatial memory for document management.
+\newblock In \emph{Proceedings of the 11th Annual ACM Symposium on User
+  Interface Software and Technology}, pages 153--162, 1998.
+
+\bibitem[Robertson et~al.(2000)Robertson, Van~Dantzich, Robbins, Czerwinski,
+  Hinckley, Risden, Thiel, and Gorokhovsky]{robertson2000task}
+Robertson, G., Van~Dantzich, M., Robbins, D., Czerwinski, M., Hinckley, K.,
+  Risden, K., Thiel, D., and Gorokhovsky, V.
+\newblock The task gallery: a 3d window manager.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, pages 494--501, 2000.
+
+\bibitem[Robertson et~al.(1991)Robertson, Mackinlay, and
+  Card]{robertson1991perspective}
+Robertson, G.~G., Mackinlay, J.~D., and Card, S.
+\newblock The perspective wall: Detail and context smoothly integrated.
+\newblock In \emph{Proceedings of ACM CHI}, volume~91, pages 173--179, 1991.
+
+\bibitem[Rohs et~al.(2007)Rohs, Sch{\"o}ning, Raubal, Essl, and
+  Kr{\"u}ger]{rohs2007map}
+Rohs, M., Sch{\"o}ning, J., Raubal, M., Essl, G., and Kr{\"u}ger, A.
+\newblock Map navigation with mobile devices: virtual versus physical movement
+  with and without visual context.
+\newblock In \emph{Proceedings of the 9th International Conference on
+  Multimodal Interfaces}, pages 146--153, New York, NY, USA, 2007. ACM.
+
+\bibitem[Rooney and Ruddle(2015)]{rooney2015hired}
+Rooney, C. and Ruddle, R.~A.
+\newblock Hired: a high-resolution multi-window visualisation environment for
+  cluster-driven displays.
+\newblock In \emph{Proceedings of the 7th ACM SIGCHI Symposium on Engineering
+  Interactive Computing Systems}, pages 2--11, 2015.
+
+\bibitem[Rooney et~al.(2013)Rooney, Endert, Fekete, Hornb{\ae}k, and
+  North]{rooney2013powerwall}
+Rooney, C., Endert, A., Fekete, J.-D., Hornb{\ae}k, K., and North, C.
+\newblock Powerwall: int. workshop on interactive, ultra-high-resolution
+  displays.
+\newblock In \emph{CHI'13 Extended Abstracts on Human Factors in Computing
+  Systems}, pages 3227--3230. 2013.
+
+\bibitem[Roth(2013)]{roth2013empirically}
+Roth, R.~E.
+\newblock An empirically-derived taxonomy of interaction primitives for
+  interactive cartography and geovisualization.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics},
+  19\penalty0 (12):\penalty0 2356--2365, 2013.
+
+\bibitem[Ruddle et~al.(2015)Ruddle, Thomas, Randell, Quirke, and
+  Treanor]{ruddle2015performance}
+Ruddle, R.~A., Thomas, R.~G., Randell, R.~S., Quirke, P., and Treanor, D.
+\newblock Performance and interaction behaviour during visual search on large,
+  high-resolution displays.
+\newblock \emph{Information Visualization}, 14\penalty0 (2):\penalty0 137--147,
+  2015.
+
+\bibitem[Rudi et~al.(2016)Rudi, Giannopoulos, Kiefer, Peier, and
+  Raubal]{Rudi2016}
+Rudi, D., Giannopoulos, I., Kiefer, P., Peier, C., and Raubal, M.
+\newblock {Interacting with Maps on Optical Head-Mounted Displays}.
+\newblock In \emph{Proceedings of the 2016 Symposium on Spatial User
+  Interaction}, SUI '16, pages 3--12, New York, NY, USA, 2016. ACM.
+\newblock ISBN 978-1-4503-4068-7.
+
+\bibitem[Rusn{\'a}k et~al.(2018)Rusn{\'a}k, Appert, Chapuis, and
+  Pietriga]{rusnak2018designing}
+Rusn{\'a}k, V., Appert, C., Chapuis, O., and Pietriga, E.
+\newblock Designing coherent gesture sets for multi-scale navigation on
+  tabletops.
+\newblock In \emph{Proceedings of the 2018 CHI Conference on Human Factors in
+  Computing Systems}, pages 1--12. ACM, 2018.
+
+\bibitem[Saket et~al.(2016)Saket, Endert, and Stasko]{saket2016beyond}
+Saket, B., Endert, A., and Stasko, J.
+\newblock Beyond usability and performance: A review of user experience-focused
+  evaluations in visualization.
+\newblock In \emph{Proceedings of the Sixth Workshop on Beyond Time and Errors
+  on Novel Evaluation Methods for Visualization}, pages 133--142, 2016.
+
+\bibitem[Santos-Torres et~al.(2018)Santos-Torres, Zarraonandia, D{\'\i}az, and
+  Aedo]{santos2018exploring}
+Santos-Torres, A., Zarraonandia, T., D{\'\i}az, P., and Aedo, I.
+\newblock Exploring interaction mechanisms for map interfaces in virtual
+  reality environments.
+\newblock In \emph{Proceedings of the XIX International Conference on Human
+  Computer Interaction}, pages 1--7, 2018.
+
+\bibitem[Satriadi et~al.(2020)Satriadi, Ens, Cordeil, Czauderna, and
+  Jenny]{SatriadiMapsAroundMe2020}
+Satriadi, K.~A., Ens, B., Cordeil, M., Czauderna, T., and Jenny, B.
+\newblock Maps around me: 3d multiview layouts in immersive spaces.
+\newblock \emph{Proceeding ACM Human-Computer Interaction}, 4\penalty0 (ISS),
+  2020.
+
+\bibitem[Satriadi et~al.(2019)Satriadi, Ens, Cordeil, Jenny, Czauderna, and
+  Willett]{satriadi2019augmented}
+Satriadi, K.~A., Ens, B., Cordeil, M., Jenny, B., Czauderna, T., and Willett,
+  W.
+\newblock Augmented reality map navigation with freehand gestures.
+\newblock In \emph{2019 IEEE Conference on Virtual Reality and 3D User
+  Interfaces (VR)}, pages 593--603. IEEE, 2019.
+
+\bibitem[Satriadi et~al.(2021)Satriadi, Ens, Czauderna, Cordeil, and
+  Jenny]{satriadi2021quantiativeglobe}
+Satriadi, K.~A., Ens, B., Czauderna, T., Cordeil, M., and Jenny, B.
+\newblock Quantitative data visualisation on virtual globes.
+\newblock In \emph{Proceedings of the 2021 CHI Conference on Human Factors in
+  Computing Systems}, CHI '21, New York, NY, USA, 2021. Association for
+  Computing Machinery.
+\newblock ISBN 9781450380966.
+
+\bibitem[Seipel and Carvalho(2012)]{seipel2012solving}
+Seipel, S. and Carvalho, L.
+\newblock Solving combined geospatial tasks using 2d and 3d bar charts.
+\newblock In \emph{16th International Conference on Information Visualisation},
+  pages 157--163. IEEE, 2012.
+
+\bibitem[Sekiguchi and Komuro(2017)]{Shun2017}
+Sekiguchi, S. and Komuro, T.
+\newblock {VolGrab: Realizing 3D View Navigation by Aerial Hand Gestures}.
+\newblock In \emph{Proceedings of the 2017 CHI Conference Extended Abstracts on
+  Human Factors in Computing Systems}, CHI EA '17, pages 2064--2069, New York,
+  NY, USA, 2017. ACM.
+\newblock ISBN 978-1-4503-4656-6.
+
+\bibitem[Semmo and D{\"o}llner(2014)]{semmo2014interaction}
+Semmo, A. and D{\"o}llner, J.
+\newblock An interaction framework for level-of-abstraction visualization of 3d
+  geovirtual environments.
+\newblock In \emph{Proceedings of the 2nd ACM SIGSPATIAL International Workshop
+  on Interacting with Maps}, pages 43--49, 2014.
+
+\bibitem[Serrano et~al.(2014)Serrano, Ens, and
+  Irani]{Serrano:2014:EUH:2556288.2556984}
+Serrano, M., Ens, B.~M., and Irani, P.~P.
+\newblock Exploring the use of hand-to-face input for interacting with
+  head-worn displays.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '14, pages 3181--3190, New York, NY, USA, 2014. ACM.
+\newblock ISBN 978-1-4503-2473-1.
+
+\bibitem[Shi et~al.(2016)Shi, Zelzer, Feng, and Azenkot]{shi2016tickers}
+Shi, L., Zelzer, I., Feng, C., and Azenkot, S.
+\newblock Tickers and talker: An accessible labeling toolkit for 3d printed
+  models.
+\newblock In \emph{Proceedings of the 2016 CHI Conference on Human Factors in
+  Computing Systems}, pages 4896--4907, 2016.
+
+\bibitem[Shi et~al.(2017)Shi, Zhao, and Azenkot]{shi2017markit}
+Shi, L., Zhao, Y., and Azenkot, S.
+\newblock Markit and talkit: a low-barrier toolkit to augment 3d printed models
+  with audio annotations.
+\newblock In \emph{Proceedings of the 30th Annual ACM Symposium on User
+  Interface Software and Technology}, pages 493--506, 2017.
+
+\bibitem[Shneiderman(2003)]{shneiderman2003eyes}
+Shneiderman, B.
+\newblock The eyes have it: A task by data type taxonomy for information
+  visualizations.
+\newblock In \emph{The craft of information visualization}, pages 364--371.
+  Elsevier, 2003.
+
+\bibitem[Shupp et~al.(2006)Shupp, Ball, Yost, Booker, and
+  North]{shupp2006evaluation}
+Shupp, L., Ball, R., Yost, B., Booker, J., and North, C.
+\newblock Evaluation of viewport size and curvature of large, high-resolution
+  displays.
+\newblock In \emph{Proceedings of Graphics Interface 2006}, pages 123--130.
+  Canadian Information Processing Society, 2006.
+
+\bibitem[Silvia and Barona(2009)]{silvia2009people}
+Silvia, P.~J. and Barona, C.~M.
+\newblock Do people prefer curved objects? angularity, expertise, and aesthetic
+  preference.
+\newblock \emph{Empirical Studies of the Arts}, 27\penalty0 (1):\penalty0
+  25--42, 2009.
+
+\bibitem[Simpson(2020)]{simpson2020scale}
+Simpson, M.
+\newblock \emph{Scale and Space: Representations in Immersive Virtual Reality}.
+\newblock PhD thesis, 2020.
+\newblock URL \url{https://etda.libraries.psu.edu/catalog/17663mbs278}.
+\newblock [Accessed on: Jul 18, 2021].
+
+\bibitem[Skarbez et~al.(2019)Skarbez, Polys, Ogle, North, and
+  Bowman]{skarbez2019immersive}
+Skarbez, R., Polys, N.~F., Ogle, J.~T., North, C., and Bowman, D.~A.
+\newblock Immersive analytics: Theory and research agenda.
+\newblock \emph{Frontiers in Robotics and AI}, 6:\penalty0 82, 2019.
+
+\bibitem[Slater and Wilbur(1997)]{slater1997framework}
+Slater, M. and Wilbur, S.
+\newblock A framework for immersive virtual environments (five): Speculations
+  on the role of presence in virtual environments.
+\newblock \emph{Presence: Teleoperators \& Virtual Environments}, 6\penalty0
+  (6):\penalty0 603--616, 1997.
+
+\bibitem[Slocum et~al.(2001)Slocum, Blok, Jiang, Koussoulakou, Montello,
+  Fuhrmann, and Hedley]{slocum2001cognitive}
+Slocum, T.~A., Blok, C., Jiang, B., Koussoulakou, A., Montello, D.~R.,
+  Fuhrmann, S., and Hedley, N.~R.
+\newblock Cognitive and usability issues in geovisualization.
+\newblock \emph{Cartography and Geographic Information Science}, 28\penalty0
+  (1):\penalty0 61--75, 2001.
+
+\bibitem[Slocum et~al.(2009)Slocum, McMaster, Kessler, and
+  Howard]{slocum1999thematic}
+Slocum, T.~A., McMaster, R.~B., Kessler, F.~C., and Howard, H.~H.
+\newblock \emph{Thematic Cartography and Geovisualization}.
+\newblock Prentice Hall, 2009.
+
+\bibitem[Spindler et~al.(2014)Spindler, Schuessler, Martsch, and
+  Dachselt]{Spindler2014}
+Spindler, M., Schuessler, M., Martsch, M., and Dachselt, R.
+\newblock {Pinch-drag-flick vs. Spatial Input: Rethinking Zoom {\&} Pan on
+  Mobile Displays}.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, pages 1113--1122, New York, NY, USA, 2014. ACM.
+\newblock ISBN 978-1-4503-2473-1.
+
+\bibitem[Spur et~al.(2020)Spur, Tourre, David, Moreau, and
+  Le~Callet]{spur2020mapstack}
+Spur, M., Tourre, V., David, E., Moreau, G., and Le~Callet, P.
+\newblock Mapstack: Exploring multilayered geospatial data in virtual reality.
+\newblock In \emph{11th International Conference on Information Visualization
+  Theory and Applications}, pages 88--99. SCITEPRESS-Science and Technology
+  Publications, 2020.
+
+\bibitem[Ssin et~al.(2019)Ssin, Walsh, Smith, Cunningham, and
+  Thomas]{ssin2019geogate}
+Ssin, S.~Y., Walsh, J.~A., Smith, R.~T., Cunningham, A., and Thomas, B.~H.
+\newblock Geogate: Correlating geo-temporal datasets using an augmented reality
+  space-time cube and tangible interactions.
+\newblock In \emph{2019 IEEE Conference on Virtual Reality and 3D User
+  Interfaces (VR)}, pages 210--219. IEEE, 2019.
+
+\bibitem[Stellmach and Dachselt(2012)]{Stellmach2012a}
+Stellmach, S. and Dachselt, R.
+\newblock Investigating gaze-supported multimodal pan and zoom.
+\newblock In \emph{Proceedings of the Symposium on Eye Tracking Research and
+  Applications}, ETRA '12, pages 357--360, New York, NY, USA, 2012. ACM.
+
+\bibitem[Stellmach et~al.(2012)Stellmach, J{\"{u}}ttner, Nywelt, Schneider, and
+  Dachselt]{Stellmach2012}
+Stellmach, S., J{\"{u}}ttner, M., Nywelt, C., Schneider, J., and Dachselt, R.
+\newblock {Investigating Freehand Pan and Zoom}.
+\newblock In \emph{Proceedings of Mensch \& Computer}, pages 303--312,
+  M{\"{u}}nchen, 2012. Oldenbourg Verlag.
+
+\bibitem[Surale et~al.(2019)Surale, Matulic, and Vogel]{surale2019experimental}
+Surale, H.~B., Matulic, F., and Vogel, D.
+\newblock Experimental analysis of barehand mid-air mode-switching techniques
+  in virtual reality.
+\newblock In \emph{Proceedings of the 2019 CHI Conference on Human Factors in
+  Computing Systems}, pages 1--14, 2019.
+
+\bibitem[Sutherland(1965)]{sutherland1965ultimate}
+Sutherland, I.
+\newblock The ultimate display.
+\newblock In \emph{Proceedings of the IFIPS Congress 65(2):506-508. New York:
+  IFIP}. CUMINCAD, 1965.
+
+\bibitem[Sutherland(1968)]{sutherland1968head}
+Sutherland, I.
+\newblock A head-mounted three dimensional display.
+\newblock In \emph{Proceedings of the December 9-11, 1968, Fall Joint Computer
+  Conference, Part I}, pages 757--764, 1968.
+
+\bibitem[Szalav{\'a}ri and Gervautz(1997)]{szalavari1997personal}
+Szalav{\'a}ri, Z. and Gervautz, M.
+\newblock {The Personal Interaction Panel}--{a Two-Handed Interface for
+  Augmented Reality}.
+\newblock \emph{Computer Graphics forum}, 16\penalty0 (3):\penalty0 335--346,
+  1997.
+
+\bibitem[Tavanti and Lind(2001)]{tavanti20012d}
+Tavanti, M. and Lind, M.
+\newblock 2d vs 3d, implications on spatial memory.
+\newblock In \emph{IEEE Symposium on Information Visualization, 2001. INFOVIS
+  2001.}, pages 139--145. IEEE, 2001.
+
+\bibitem[Terrenghi et~al.(2009)Terrenghi, Quigley, and
+  Dix]{terrenghi2009taxonomy}
+Terrenghi, L., Quigley, A., and Dix, A.
+\newblock A taxonomy for and analysis of multi-person-display ecosystems.
+\newblock \emph{Personal and Ubiquitous Computing}, 13\penalty0 (8):\penalty0
+  583--598, 2009.
+
+\bibitem[Thomas(2019)]{thomas2019virtual}
+Thomas, B.~H.
+\newblock Virtual reality for information visualization might just work this
+  time.
+\newblock \emph{Frontiers in Robotics and AI}, 6:\penalty0 84, 2019.
+
+\bibitem[Timpf(1998)]{timpf1998hierarchical}
+Timpf, S.
+\newblock Hierarchical structures in map series.
+\newblock Thesis, Department of Geoinformation, Technical University Vienna,
+  1998.
+
+\bibitem[Tomberlin et~al.(2017)Tomberlin, Tahai, and Pietroszek]{7892295}
+Tomberlin, M., Tahai, L., and Pietroszek, K.
+\newblock {Gauntlet: Travel technique for immersive environments using
+  non-dominant hand}.
+\newblock In \emph{2017 IEEE Virtual Reality (VR)}, pages 299--300, March 2017.
+
+\bibitem[Tominski et~al.(2017)Tominski, Gladisch, Kister, Dachselt, and
+  Schumann]{tominski2017interactive}
+Tominski, C., Gladisch, S., Kister, U., Dachselt, R., and Schumann, H.
+\newblock Interactive lenses for visualization: An extended survey.
+\newblock In \emph{Computer Graphics Forum}, volume~36, pages 173--200. Wiley
+  Online Library, 2017.
+
+\bibitem[Trapp et~al.(2008)Trapp, Glander, Buchholz, and
+  D{\"o}llner]{trapp20083d}
+Trapp, M., Glander, T., Buchholz, H., and D{\"o}llner, J.
+\newblock 3d generalization lenses for interactive focus+ context visualization
+  of virtual city models.
+\newblock In \emph{2008 12th International Conference Information
+  Visualisation}, pages 356--361. IEEE, 2008.
+
+\bibitem[Tscharn et~al.(2016)Tscharn, Schaper, Sauerstein, Steinke,
+  Stiersdorfer, Scheller, and Huynh]{Tscharn2016}
+Tscharn, R., Schaper, P., Sauerstein, J., Steinke, S., Stiersdorfer, S.,
+  Scheller, C., and Huynh, H.~T.
+\newblock {User Experience of 3D Map Navigation - Bare-Hand Interaction or
+  Touchable Device?}
+\newblock In \emph{Mensch und Computer 2016 - Tagungsband}, Aachen, Germany,
+  2016. Gesellschaft f{\"u}r Informatik e.V.
+
+\bibitem[Van~Dam(1997)]{van1997post}
+Van~Dam, A.
+\newblock Post-wimp user interfaces.
+\newblock \emph{Communications of the ACM}, 40\penalty0 (2):\penalty0 63--67,
+  1997.
+
+\bibitem[Van~Krevelen and Poelman(2010)]{van2010survey}
+Van~Krevelen, D. and Poelman, R.
+\newblock A survey of augmented reality technologies, applications and
+  limitations.
+\newblock \emph{International Journal of Virtual Reality}, 9\penalty0
+  (2):\penalty0 1--20, 2010.
+
+\bibitem[Vega et~al.(2014)Vega, Wernert, Beard, Gniady, Reagan, Boyles, and
+  Eller]{vega2014visualization}
+Vega, K., Wernert, E., Beard, P., Gniady, C., Reagan, D., Boyles, M., and
+  Eller, C.
+\newblock Visualization on spherical displays: Challenges and opportunities.
+\newblock In \emph{Proceedings of the IEEE VIS Arts Program (VISAP)}, pages
+  108--116, 2014.
+
+\bibitem[Vogel and Balakrishnan(2005)]{Vogel2005}
+Vogel, D. and Balakrishnan, R.
+\newblock {Distant Freehand Pointing and Clicking on Very Large, High
+  Resolution Displays}.
+\newblock In \emph{Proceedings of the 18th Annual ACM Symposium on User
+  Interface Software and Technology}, UIST '05, pages 33--42, New York, NY,
+  USA, 2005. ACM.
+
+\bibitem[Voinov et~al.(2018)Voinov, {\c{C}}{\"o}ltekin, Chen, and
+  Beydoun]{voinov2018virtual}
+Voinov, A., {\c{C}}{\"o}ltekin, A., Chen, M., and Beydoun, G.
+\newblock Virtual geographic environments in socio-environmental modeling: a
+  fancy distraction or a key to communication?
+\newblock \emph{International Journal of Digital Earth}, 11\penalty0
+  (4):\penalty0 408--419, 2018.
+
+\bibitem[Wagner~Filho et~al.(2019)Wagner~Filho, Stuerzlinger, and
+  Nedel]{wagner2019evaluating}
+Wagner~Filho, J.~A., Stuerzlinger, W., and Nedel, L.
+\newblock Evaluating an immersive space-time cube geovisualization for
+  intuitive trajectory data exploration.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics},
+  26\penalty0 (1):\penalty0 514--524, 2019.
+
+\bibitem[Wagner~Filho et~al.(2021)Wagner~Filho, Stuerzlinger, and
+  Nedel]{wagner2021effect}
+Wagner~Filho, J.~A., Stuerzlinger, W., and Nedel, L.
+\newblock The effect of exploration mode and frame of reference in immersive
+  analytics.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics},
+  2021.
+
+\bibitem[Walther et~al.(2014)Walther, Bilke, Delfs, Graf, Grundmann, Kolditz,
+  and Liedl]{walther2014assessing}
+Walther, M., Bilke, L., Delfs, J.-O., Graf, T., Grundmann, J., Kolditz, O., and
+  Liedl, R.
+\newblock Assessing the saltwater remediation potential of a three-dimensional,
+  heterogeneous, coastal aquifer system.
+\newblock \emph{Environmental Earth Sciences}, 72\penalty0 (10):\penalty0
+  3827--3837, 2014.
+
+\bibitem[Wang et~al.(2014)Wang, Li, Sakamoto, and
+  Igarashi]{wang2014hierarchical}
+Wang, F., Li, Y., Sakamoto, D., and Igarashi, T.
+\newblock Hierarchical route maps for efficient navigation.
+\newblock In \emph{Proceedings of the 19th International Conference on
+  Intelligent User Interfaces}, pages 169--178. ACM, 2014.
+
+\bibitem[Wang~Baldonado et~al.(2000)Wang~Baldonado, Woodruff, and
+  Kuchinsky]{wang2000guidelines}
+Wang~Baldonado, M.~Q., Woodruff, A., and Kuchinsky, A.
+\newblock Guidelines for using multiple views in information visualization.
+\newblock In \emph{Proceedings of the Working Conference on Advanced Visual
+  Interfaces}, pages 110--119. ACM, 2000.
+
+\bibitem[White and Feiner(2009)]{white2009sitelens}
+White, S. and Feiner, S.
+\newblock Sitelens: Situated visualization techniques for urban site visits.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, pages 1117--1120, 2009.
+
+\bibitem[White(2012)]{white2012evaluating}
+White, T.~M.
+\newblock \emph{Evaluating the effectiveness of thematic mapping on virtual
+  globes}.
+\newblock PhD thesis, University of Kansas, 2012.
+
+\bibitem[Wiehr et~al.(2017)Wiehr, Daiber, Kosmalla, and
+  Kr{\"u}ger]{wiehr2017artopos}
+Wiehr, F., Daiber, F., Kosmalla, F., and Kr{\"u}ger, A.
+\newblock Artopos: augmented reality terrain map visualization for
+  collaborative route planning.
+\newblock In \emph{Proceedings of the 2017 ACM International Joint Conference
+  on Pervasive and Ubiquitous Computing and Proceedings of the 2017 ACM
+  International Symposium on Wearable Computers}, pages 1047--1050. ACM, 2017.
+
+\bibitem[Wigdor et~al.(2006)Wigdor, Shen, Forlines, and
+  Balakrishnan]{Wigdor2006}
+Wigdor, D., Shen, C., Forlines, C., and Balakrishnan, R.
+\newblock {Effects of display position and control space orientation on user
+  preference and performance}.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems - CHI '06}, page 309, New York, New York, USA, 2006. ACM
+  Press.
+\newblock ISBN 1595933727.
+
+\bibitem[Wobbrock et~al.(2011)Wobbrock, Findlater, Gergle, and
+  Higgins]{wobbrock2011aligned}
+Wobbrock, J.~O., Findlater, L., Gergle, D., and Higgins, J.~J.
+\newblock The aligned rank transform for nonparametric factorial analyses using
+  only anova procedures.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, pages 143--146. ACM, 2011.
+
+\bibitem[Wu et~al.(2010)Wu, He, and Gong]{wu2010virtual}
+Wu, H., He, Z., and Gong, J.
+\newblock A virtual globe-based 3d visualization and interactive framework for
+  public participation in urban planning processes.
+\newblock \emph{Computers, Environment and Urban Systems}, 34\penalty0
+  (4):\penalty0 291--298, 2010.
+
+\bibitem[Xia et~al.(2017)Xia, Hinckley, Pahud, Tu, and
+  Buxton]{xia2017writlarge}
+Xia, H., Hinckley, K., Pahud, M., Tu, X., and Buxton, B.
+\newblock {WritLarge: Ink Unleashed by Unified Scope, Action, \& Zoom}.
+\newblock In \emph{Proceedings of the 2017 CHI Conference on Human Factors in
+  Computing Systems}, CHI '17, pages 3227--3240, New York, NY, USA, 2017. ACM.
+
+\bibitem[Yang et~al.(2016)Yang, Dwyer, Goodwin, and Marriott]{yang2016many}
+Yang, Y., Dwyer, T., Goodwin, S., and Marriott, K.
+\newblock Many-to-many geographically-embedded flow visualisation: An
+  evaluation.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics},
+  23\penalty0 (1):\penalty0 411--420, 2016.
+
+\bibitem[Yang et~al.(2018{\natexlab{a}})Yang, Dwyer, Jenny, Marriott, Cordeil,
+  and Chen]{yang2018origin}
+Yang, Y., Dwyer, T., Jenny, B., Marriott, K., Cordeil, M., and Chen, H.
+\newblock Origin-destination flow maps in immersive environments.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics},
+  25\penalty0 (1):\penalty0 693--703, 2018{\natexlab{a}}.
+
+\bibitem[Yang et~al.(2018{\natexlab{b}})Yang, Jenny, Dwyer, Marriott, Chen, and
+  Cordeil]{yang2018maps}
+Yang, Y., Jenny, B., Dwyer, T., Marriott, K., Chen, H., and Cordeil, M.
+\newblock Maps and globes in virtual reality.
+\newblock \emph{Computer Graphics Forum}, 37\penalty0 (3):\penalty0 427--438,
+  2018{\natexlab{b}}.
+
+\bibitem[Yang et~al.(2020{\natexlab{a}})Yang, Dwyer, Marriott, Jenny, and
+  Goodwin]{yang2020tilt}
+Yang, Y., Dwyer, T., Marriott, K., Jenny, B., and Goodwin, S.
+\newblock Tilt map: Interactive transitions between choropleth map, prism map
+  and bar chart in immersive environments.
+\newblock \emph{IEEE Transactions on Visualization and Computer Graphics},
+  pages 1--1, 2020{\natexlab{a}}.
+
+\bibitem[Yang et~al.(2020{\natexlab{b}})Yang, Marriott, Butler, Goncu, and
+  Holloway]{yang2020tactile}
+Yang, Y., Marriott, K., Butler, M., Goncu, C., and Holloway, L.
+\newblock Tactile presentation of network data: Text, matrix or diagram?
+\newblock In \emph{Proceedings of the 2020 CHI Conference on Human Factors in
+  Computing Systems}, pages 1--12, 2020{\natexlab{b}}.
+
+\bibitem[Zhai and Milgram(1993)]{Zhai1993}
+Zhai, S. and Milgram, P.
+\newblock Human performance evaluation of manipulation schemes in virtual
+  environments.
+\newblock In \emph{Proceedings of IEEE Virtual Reality Annual International
+  Symposium}, pages 155--161. IEEE, 1993.
+
+\bibitem[Zhai et~al.(1996)Zhai, Milgram, and Buxton]{zhai1996influence}
+Zhai, S., Milgram, P., and Buxton, W.
+\newblock The influence of muscle groups on performance of multiple
+  degree-of-freedom input.
+\newblock In \emph{CHI}, volume~96, pages 308--315, 1996.
+
+\bibitem[Zhang et~al.(2018)Zhang, Zhang, Li, and Li]{zhang2018visual}
+Zhang, M.-J., Zhang, K., Li, J., and Li, Y.-N.
+\newblock Visual exploration of 3d geospatial networks in a virtual reality
+  environment.
+\newblock \emph{The Computer Journal}, 61\penalty0 (3):\penalty0 447--458,
+  2018.
+
+\bibitem[Zhao et~al.(2008)Zhao, Plaisant, Shneiderman, and Lazar]{zhao2008data}
+Zhao, H., Plaisant, C., Shneiderman, B., and Lazar, J.
+\newblock Data sonification for users with visual impairment: a case study with
+  georeferenced data.
+\newblock \emph{ACM Transactions on Computer-Human Interaction (TOCHI)},
+  15\penalty0 (1):\penalty0 1--28, 2008.
+
+\bibitem[Zhao et~al.(2013)Zhao, Wigdor, and Balakrishnan]{zhao2013trailmap}
+Zhao, J., Wigdor, D., and Balakrishnan, R.
+\newblock Trailmap: facilitating information seeking in a multi-scale digital
+  map via implicit bookmarking.
+\newblock In \emph{Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, pages 3009--3018. ACM, 2013.
+
+\bibitem[Zhou et~al.(2008)Zhou, Duh, and Billinghurst]{zhou2008trends}
+Zhou, F., Duh, H. B.-L., and Billinghurst, M.
+\newblock Trends in augmented reality tracking, interaction and display: A
+  review of ten years of ismar.
+\newblock In \emph{2008 7th IEEE/ACM International Symposium on Mixed and
+  Augmented Reality}, pages 193--202. IEEE, 2008.
+
+\end{thebibliography}
